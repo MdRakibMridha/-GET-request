@@ -1,0 +1,615 @@
+company,id,location,name
+['ЗАО «СитиБайк»'],velobike-moscow,"{'city': 'Moscow', 'country': 'RU', 'latitude': 55.75, 'longitude': 37.616667}",Velobike
+['Urban Infrastructure Partner'],baerum-bysykkel,"{'city': 'Bærum', 'country': 'NO', 'latitude': 59.89455, 'longitude': 10.546343}",Bysykkel
+['Comunicare S.r.l.'],bicincitta-siena,"{'city': 'Siena', 'country': 'IT', 'latitude': 43.3186, 'longitude': 11.3306}",Bicincittà
+['Cyclopolis Systems'],cyclopolis-maroussi,"{'city': 'Maroussi', 'country': 'GR', 'latitude': 38.0568722388, 'longitude': 23.8083299536}",Cyclopolis
+"['Groundwork', 'Slough Borough Council', 'ITS']",cycle-hire-slough,"{'city': 'Slough', 'country': 'GB', 'latitude': 51.51135, 'longitude': -0.591562}",Cycle Hire
+['Cyclopolis Systems'],cyclopolis-nafplio,"{'city': 'Maroussi', 'country': 'GR', 'latitude': 37.5639397319, 'longitude': 22.8093402872}",Cyclopolis
+['Comunicare S.r.l.'],bicincitta-parco-dei-colli-di-bergamo,"{'city': 'Parco dei Colli di Bergamo', 'country': 'IT', 'latitude': 45.72295637032245, 'longitude': 9.649230073016383}",Bicincittà
+['Cyclopolis Systems'],cyclopolis-aigialeia,"{'city': 'Maroussi', 'country': 'GR', 'latitude': 38.2511101325, 'longitude': 22.0821570196}",Cyclopolis
+['Cyclopolis Systems'],cyclopolis-marathon,"{'city': 'Marathon', 'country': 'GR', 'latitude': 38.0855680022, 'longitude': 23.9776389963}",Cyclopolis
+['Comunicare S.r.l.'],bicincitta-mantova,"{'city': 'Mantova', 'country': 'IT', 'latitude': 45.15866370764634, 'longitude': 10.783718973016335}",Bicincittà
+['Cyclopolis Systems'],cyclopolis-neasmyrni,"{'city': 'Νea Smyrni', 'country': 'GR', 'latitude': 37.9381, 'longitude': 23.7126}",Cyclopolis
+['Cyclopolis Systems'],cyclopolis-moschatotavros,"{'city': 'Μoschato-Tavros', 'country': 'GR', 'latitude': 37.9538991434, 'longitude': 23.6824746661}",Cyclopolis
+['Cyclopolis Systems'],cyclopolis-arxaiaolympia,"{'city': 'Αrxaia Olympia', 'country': 'GR', 'latitude': 37.6419700934, 'longitude': 21.6247265179}",Cyclopolis
+['Cyclopolis Systems'],cyclopolis-kiato,"{'city': 'Kιato', 'country': 'GR', 'latitude': 38.0132674508, 'longitude': 22.7493819902}",Cyclopolis
+['Comunicare S.r.l.'],bicincitta-assemini,"{'city': 'Assemini', 'country': 'IT', 'latitude': 39.28956306007679, 'longitude': 9.006601555294765}",Bicincittà
+['Cyclopolis Systems'],cyclopolis-rhodes,"{'city': 'Rhodes', 'country': 'GR', 'latitude': 36.4509118, 'longitude': 28.2246966}",Cyclopolis
+['Cyclopolis Systems'],cyclopolis-florina,"{'city': 'Florina', 'country': 'GR', 'latitude': 40.8016111, 'longitude': 21.4245222}",Cyclopolis
+['Comunicare S.r.l.'],bicincitta-tortoli,"{'city': 'Tortolì', 'country': 'IT', 'latitude': 39.92664489852196, 'longitude': 9.654953570777934}",Bicincittà
+['Cyclopolis Systems'],cyclopolis-limnos,"{'city': 'Limnos', 'country': 'GR', 'latitude': 39.8747861, 'longitude': 25.0586722}",Cyclopolis
+['Comunicare S.r.l.'],bicincitta-gaeta,"{'city': 'Gaeta', 'country': 'IT', 'latitude': 41.209620965538036, 'longitude': 13.584335125656139}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-borgarello,"{'city': 'Borgarello', 'country': 'IT', 'latitude': 45.23963753440171, 'longitude': 9.136150475640875}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-pizzighettone-formigara,"{'city': 'Pizzighettone e Formigara', 'country': 'IT', 'latitude': 45.186748819167434, 'longitude': 9.778087948479424}",Bicincittà
+['The National Transport Authority'],cork,"{'city': 'Cork', 'country': 'IE', 'latitude': 51.893604, 'longitude': -8.494174}",Coca-Cola Zero® Bikes
+['The National Transport Authority'],limerick,"{'city': 'Limerick', 'country': 'IE', 'latitude': 52.668746, 'longitude': -8.627809}",Coca-Cola Zero® Bikes
+['BTS Group Holdings'],punpunbikeshare,"{'city': 'Bangkok', 'country': 'TH', 'latitude': 13.75, 'longitude': 100.516667}",Pun Pun Bike Share
+['The National Transport Authority'],galway,"{'city': 'Galway', 'country': 'IE', 'latitude': 53.2783491544, 'longitude': -9.05069143207}",Coca-Cola Zero® Bikes
+['Bike U Sp. z o.o.'],bbbike,"{'city': 'Bielsko-Biała', 'country': 'PL', 'latitude': 49.8225, 'longitude': 19.044444}",BBBike
+['Comunicare S.r.l.'],bicincitta-montecatini-terme,"{'city': 'Montecatini Terme', 'country': 'IT', 'latitude': 43.88362791665083, 'longitude': 10.764385656591799}",Bicincittà
+['Bike U Sp. z o.o.'],bikeu-bra,"{'city': 'Bydgoszcz', 'country': 'PL', 'latitude': 53.12193, 'longitude': 18.00038}",Bydgoski rower aglomeracyjny
+"['PBSC', 'Serco Group plc']",santander-cycles,"{'city': 'London', 'country': 'GB', 'latitude': 51.51121389999999, 'longitude': -0.1198244}",Santander Cycles
+"['PBSC', 'Alta Bicycle Share, Inc']",we-cycle,"{'city': 'Aspen, CO', 'country': 'US', 'latitude': 39.194951, 'longitude': -106.837002}",WE-cycle
+['Comunicare S.r.l.'],bicincitta-carrara,"{'city': 'Carrara', 'country': 'IT', 'latitude': 44.07731805550891, 'longitude': 10.097172450401331}",Bicincittà
+"['PBSC', 'Alta Bicycle Share, Inc']",wowcycle-reykjavik,"{'city': 'Reykjavík', 'country': 'IS', 'latitude': 64.128288, 'longitude': -21.827774}",WOW Citybike
+['Transparenzportal Hamburg'],stadtrad-hamburg,"{'city': 'Hamburg', 'country': 'DE', 'latitude': 53.57532, 'longitude': 10.01534}",StadtRAD Hamburg'
+['Comunicare S.r.l.'],tigullionbike,"{'city': 'Sestri Levante - Lavagna', 'country': 'IT', 'latitude': 44.272554, 'longitude': 9.395714}",Tigullionbike
+['Comunicare S.r.l.'],arbike,"{'city': 'Arezzo', 'country': 'IT', 'latitude': 43.473333, 'longitude': 11.87}",ARbike
+"['Velobike.kz, LLP', 'Smoove']",velobike,"{'city': 'Astana', 'country': 'KZ', 'latitude': 51.166667, 'longitude': 71.416667}",Velobike
+,velib,"{'city': 'Paris', 'country': 'FR', 'latitude': 48.856614, 'longitude': 2.3522219}",Velib' Métropôle
+['Comunicare S.r.l.'],ascoli-piceno,"{'city': 'Ascoli Piceno', 'country': 'IT', 'latitude': 42.85, 'longitude': 13.583333}",Ascoli Piceno
+['Comunicare S.r.l.'],bigi,"{'city': 'Bergamo', 'country': 'IT', 'latitude': 45.695, 'longitude': 9.67}",BiGi
+['ICNITA S.L.'],girocleta,"{'city': 'Girona', 'country': 'ES', 'latitude': 41.9794005, 'longitude': 2.8214264}",Girocleta
+['Comunicare S.r.l.'],alba,"{'city': 'Alba', 'country': 'IT', 'latitude': 44.716667, 'longitude': 8.083333}",Alba
+['ClearChannel'],bikemi,"{'city': 'Milano', 'country': 'IT', 'latitude': 45.4654542, 'longitude': 9.186516}",BikeMi
+['Comunicare S.r.l.'],biella,"{'city': 'Biella', 'country': 'IT', 'latitude': 45.5775, 'longitude': 8.051111}",Biella
+['Comunicare S.r.l.'],chivasso,"{'city': 'Chivasso', 'country': 'IT', 'latitude': 45.189765, 'longitude': 7.888935}",Chivasso
+['ClearChannel'],bizi,"{'city': 'Zaragoza', 'country': 'ES', 'latitude': 41.6487908, 'longitude': -0.8895811}",Bizi
+['ClearChannel'],ecobici,"{'city': 'Cd de México', 'country': 'MX', 'latitude': 19.4326077, 'longitude': -99.133208}",EcoBici
+['Comunicare S.r.l.'],bici-in-busto,"{'city': 'Busto Arsizio', 'country': 'IT', 'latitude': 45.610555, 'longitude': 8.852062}",Bici in Busto
+['ClearChannel'],velo-antwerpen,"{'city': 'Antwerpen', 'country': 'BE', 'latitude': 51.216667, 'longitude': 4.4}",Velo Antwerpen
+['Comunicare S.r.l.'],cuneo,"{'city': 'Cuneo', 'country': 'IT', 'latitude': 44.384238, 'longitude': 7.541428}",Cuneo
+['ClearChannel'],malmobybike,"{'city': 'Malmö', 'country': 'SE', 'latitude': 55.605, 'longitude': 13.0038}",Malmö by bike
+['ClearChannel'],bicilascondes,"{'city': 'Las Condes', 'country': 'CL', 'latitude': -33.401944, 'longitude': -70.55}",Bici las Condes
+"Empresa Municipal de Transportes de Madrid, S.A.",bicimad,"{'city': 'Madrid', 'country': 'ES', 'latitude': 40.4168, 'longitude': -3.7038}",BiciMAD
+"['Brainbox Technology', 'Smoove SAS']",easybike-didymoteicho,"{'city': 'Didymoteicho', 'country': 'GR', 'latitude': 41.3502539849, 'longitude': 26.4972960949}",EasyBike
+['Comunicare S.r.l.'],free-bike-sharing,"{'city': 'Frosinone', 'country': 'IT', 'latitude': 41.645081, 'longitude': 13.342123}",FRee Bike sharing
+"['Brainbox Technology', 'Smoove SAS']",easybike-glyfada,"{'city': 'Glyfada', 'country': 'GR', 'latitude': 37.8715809825, 'longitude': 23.7355544376}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-igoumenitsa,"{'city': 'Igoumenitsa', 'country': 'GR', 'latitude': 39.5005770633, 'longitude': 20.2635206985}",EasyBike
+['Comunicare S.r.l.'],lecce,"{'city': 'Lecce', 'country': 'IT', 'latitude': 40.35040350928062, 'longitude': 18.177824020385742}",lecce
+"['Brainbox Technology', 'Smoove SAS']",easybike-ioannina,"{'city': 'Ioannina', 'country': 'GR', 'latitude': 39.6639818, 'longitude': 20.8522784}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-karditsa,"{'city': 'Karditsa', 'country': 'GR', 'latitude': 39.3634604, 'longitude': 21.9211192}",EasyBike
+['Comunicare S.r.l.'],manerba-in-bici,"{'city': 'Manerba del Garda', 'country': 'IT', 'latitude': 45.561179, 'longitude': 10.559406}",Manerba in Bici
+"['Brainbox Technology', 'Smoove SAS']",easybike-kavala,"{'city': 'Kavala', 'country': 'GR', 'latitude': 40.9369068, 'longitude': 24.4122164}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-kinouria,"{'city': 'Kinouria', 'country': 'GR', 'latitude': 37.1476704305, 'longitude': 22.8933729935}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-komotini,"{'city': 'Komotini', 'country': 'GR', 'latitude': 41.117833, 'longitude': 25.4041307}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-patra,"{'city': 'Patra', 'country': 'GR', 'latitude': 38.2410966371, 'longitude': 21.7259683418}",EasyBike
+['Comunicare S.r.l.'],mar-e-bici,"{'city': 'Marciana Marina', 'country': 'IT', 'latitude': 42.805855, 'longitude': 10.196514}",Mar e Bici
+"['Brainbox Technology', 'Smoove SAS']",easybike-rethymno,"{'city': 'Rethymno', 'country': 'GR', 'latitude': 35.3667571777, 'longitude': 24.4832845736}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-samos,"{'city': 'Samos', 'country': 'GR', 'latitude': 37.754065919, 'longitude': 26.9787850189}",EasyBike
+['Comunicare S.r.l.'],novara,"{'city': 'Novara', 'country': 'IT', 'latitude': 45.44574, 'longitude': 8.622165}",Novara
+"['Brainbox Technology', 'Smoove SAS']",easybike-nicosia,"{'city': 'Nicosia', 'country': 'CY', 'latitude': 35.1739302, 'longitude': 33.364726}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-mani,"{'city': 'Mani', 'country': 'GR', 'latitude': 41.4097472, 'longitude': 26.4024952}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",easybike-irakleio,"{'city': 'Irakleio', 'country': 'GR', 'latitude': 35.338735, 'longitude': 25.144213}",EasyBike
+"['Brainbox Technology', 'Smoove SAS']",thessbike,"{'city': 'Thessaloniki', 'country': 'GR', 'latitude': 40.6403167, 'longitude': 22.9352716}",ThessBike
+"['Brainbox Technology', 'Smoove SAS']",athens-bikes,"{'city': 'Athens', 'country': 'GR', 'latitude': 37.9838, 'longitude': 23.7275}",AthensBikes
+['Comunicare S.r.l.'],goodbike,"{'city': 'Padova', 'country': 'IT', 'latitude': 45.4064349, 'longitude': 11.8767611}",GoodBike
+['PegBike'],ciclosampa,"{'city': 'São Paulo', 'country': 'BR', 'latitude': -23.55, 'longitude': -46.6333}",CicloSampa
+,bicicorunha,"{'city': 'A Coruña', 'country': 'ES', 'latitude': 43.3623, 'longitude': -8.4115}",Bicicoruña
+['Tuimil S.A.'],bici-ferrol-terra,"{'city': 'Ferrol - Narón', 'country': 'ES', 'latitude': 43.4896, 'longitude': -8.2193}",BiciFerrolTerra
+['Social Bicycles Inc.'],curtin-bike-share,"{'city': 'Curtin University, Perth, WA', 'country': 'AU', 'latitude': -32.0034172153127, 'longitude': 115.89431270956993}",Curtin Bike Share
+['Social Bicycles Inc.'],monash-bikeshare,"{'city': 'Melbourne, AU', 'country': 'AU', 'latitude': -37.91238410208696, 'longitude': 145.1362281292677}",Monash BikeShare
+['Comunicare S.r.l.'],mimuovofe,"{'city': 'Ferrara', 'country': 'IT', 'latitude': 44.8350382, 'longitude': 11.6240562}",Mi Muovo in Bici
+"['Motivate International, Inc.', 'PBSC Urban Solutions', 'BIXI Montréal']",bixi-montreal,"{'city': 'Montréal, QC', 'country': 'CA', 'latitude': 45.508693, 'longitude': -73.553928}",Bixi
+['Comunicare S.r.l.'],parma,"{'city': 'Parma', 'country': 'IT', 'latitude': 44.801485, 'longitude': 10.3279036}",Mi Muovo in Bici
+"['Motivate International, Inc.', 'PBSC Urban Solutions']",bixi-toronto,"{'city': 'Toronto, ON', 'country': 'CA', 'latitude': 43.653226, 'longitude': -79.3831843}",Bike Share Toronto
+['Social Bicycles Inc.'],sobi-hamilton,"{'city': 'Hamilton, ON', 'country': 'CA', 'latitude': 43.25643601915583, 'longitude': -79.86929655075073}",SoBi
+"['Clean Energy Coalition', 'BCycle, LLC']",arborbike,"{'city': 'Ann Arbor, MI', 'country': 'US', 'latitude': 42.27853, 'longitude': -83.74536}",ArborBike
+['Comunicare S.r.l.'],pavia-in-bici,"{'city': 'Pavia', 'country': 'IT', 'latitude': 45.1847248, 'longitude': 9.1582069}",Pavia in bici
+['Comunicare S.r.l.'],bici-perugia,"{'city': 'Perugia', 'country': 'IT', 'latitude': 43.1107168, 'longitude': 12.3908279}",Bici Perugia
+"['BCycle, LLC']",austin,"{'city': 'Austin, TX', 'country': 'US', 'latitude': 30.26408, 'longitude': -97.74355}",Austin B-cycle
+"['Motivate International, Inc', 'PBSC']",bike-chattanooga,"{'city': 'Chattanooga, TN', 'country': 'US', 'latitude': 35.0456297, 'longitude': -85.3096801}",Bike Chattanooga
+['Comunicare S.r.l.'],piacenza,"{'city': 'Piacenza', 'country': 'IT', 'latitude': 45.0473754, 'longitude': 9.6865813}",Mi Muovo in Bici
+['Comunicare S.r.l.'],pinerolo,"{'city': 'Pinerolo', 'country': 'IT', 'latitude': 44.8850256, 'longitude': 7.3499953}",Pinerolo
+"['Portland Bureau of Transportation (PBOT)', 'Motivate International, Inc', 'Social Bicycles Inc.']",biketown,"{'city': 'Portland, OR', 'country': 'US', 'latitude': 45.52175423291714, 'longitude': -122.68107935786247}",BIKETOWN
+['Comunicare S.r.l.'],reggio-emilia,"{'city': 'Reggio Emilia', 'country': 'IT', 'latitude': 44.6989932, 'longitude': 10.6296859}",Mi Muovo in Bici
+"['CycleHop, LLC', 'Social Bicycles Inc.']",britebikes,"{'city': 'San Ramon, CA', 'country': 'US', 'latitude': 37.759444753878, 'longitude': -121.955134881881}",BRiteBikes
+"['ValleyRide', 'Social Bicycles Inc.']",boise-greenbike,"{'city': 'Boise, ID', 'country': 'US', 'latitude': 43.6153060610528, 'longitude': -116.201761349309}",Boise GreenBike
+"['BCycle, LLC']",boulder,"{'city': 'Boulder, CO', 'country': 'US', 'latitude': 40.00811, 'longitude': -105.26385}",Boulder B-cycle
+"['CycleHop, LLC', 'Social Bicycles Inc.']",breeze-bike-share,"{'city': 'Santa Monica, CA', 'country': 'US', 'latitude': 34.01780925008178, 'longitude': -118.4965717792511}",Breeze Bike Share
+['Comunicare S.r.l.'],rimini,"{'city': 'Rimini', 'country': 'IT', 'latitude': 44.0570817, 'longitude': 12.5646003}",Mi Muovo in Bici
+"['BCycle, LLC']",broward,"{'city': 'Fort Lauderdale, FL', 'country': 'US', 'latitude': 26.12026, 'longitude': -80.14819}",Broward B-cycle
+"['BCycle, LLC']",bublr-bikes,"{'city': 'Milwaukee, WI', 'country': 'US', 'latitude': 43.0369, 'longitude': -87.89667}",Bublr Bikes
+"['Shared Mobility Inc.', 'Social Bicycles Inc.']",reddy-bike-share,"{'city': 'Buffalo, NY', 'country': 'US', 'latitude': 42.89373841865211, 'longitude': -78.8718044757843}",Reddy Bike Share
+"['Motivate International, Inc.', 'PBSC Urban Solutions']",capital-bikeshare,"{'city': 'Washington, DC', 'country': 'US', 'latitude': 38.8967584, 'longitude': -77.03701629999999}",Capital BikeShare
+"['BCycle, LLC']",charlotte,"{'city': 'Charlotte, NC', 'country': 'US', 'latitude': 35.22716, 'longitude': -80.83855}",Charlotte B-cycle
+['Comunicare S.r.l.'],saluzzo,"{'city': 'Saluzzo', 'country': 'IT', 'latitude': 44.6445404, 'longitude': 7.492735499999999}",Saluzzo
+"['BCycle, LLC']",cincy-red-bike,"{'city': 'Cincinnati, OH', 'country': 'US', 'latitude': 39.10138, 'longitude': -84.51217}",Cincy Red Bike
+['Comunicare S.r.l.'],savigliano,"{'city': 'Savigliano', 'country': 'IT', 'latitude': 44.6470327, 'longitude': 7.662463499999999}",Savigliano
+"['NYC Bike Share, LLC', 'Motivate International, Inc.', 'PBSC Urban Solutions']",citi-bike-nyc,"{'city': 'New York, NY', 'country': 'US', 'latitude': 40.7143528, 'longitude': -74.00597309999999}",Citi Bike
+"['CycleHop, LLC']",coast-bike-share,"{'city': 'Tampa, FL', 'country': 'US', 'latitude': 27.9627193250593, 'longitude': -82.438056400783}",Coast Bike Share
+['Comunicare S.r.l.'],terni,"{'city': 'Terni', 'country': 'IT', 'latitude': 42.5636168, 'longitude': 12.6426604}",Terni
+"['Motivate International, Inc.', 'PBSC Urban Solutions']",cogo,"{'city': 'Columbus, OH', 'country': 'US', 'latitude': 39.983333, 'longitude': -82.983333}",CoGo
+"['BCycle, LLC']",denver,"{'city': 'Denver, CO', 'country': 'US', 'latitude': 39.72055, 'longitude': -104.95253}",Denver B-cycle
+"['Motivate International, Inc.', 'PBSC Urban Solutions']",divvy,"{'city': 'Chicago, IL', 'country': 'US', 'latitude': 41.8781136, 'longitude': -87.6297982}",Divvy
+['Comunicare S.r.l.'],tirano-in-bici,"{'city': 'Tirano', 'country': 'IT', 'latitude': 46.216168, 'longitude': 10.1696056}",Tirano in Bici
+"['BCycle, LLC']",elpaso,"{'city': 'El Paso, TX', 'country': 'US', 'latitude': 31.76148, 'longitude': -106.48507}",El Paso B-cycle
+"['BCycle, LLC']",fortworth,"{'city': 'Fort Worth, TX', 'country': 'US', 'latitude': 32.7516, 'longitude': -97.32888}",Fort Worth Bike Sharing
+['Comunicare S.r.l.'],udine,"{'city': 'Udine', 'country': 'IT', 'latitude': 46.0710668, 'longitude': 13.2345794}",Udine
+"['BCycle, LLC']",greatrides,"{'city': 'Fargo, ND', 'country': 'US', 'latitude': 46.89248, 'longitude': -96.80095}",Great Rides Bike Share
+"['BCycle, LLC']",greenbikeslc,"{'city': 'Salt Lake City', 'country': 'US', 'latitude': 40.76745, 'longitude': -111.88736}",GREENbike
+"['CycleHop, LLC', 'Social Bicycles Inc.']",grid-bike-share,"{'city': 'Phoenix, AZ', 'country': 'US', 'latitude': 33.4591031356657, 'longitude': -112.074010667085}",Grid Bike Share
+"['BCycle, LLC']",omaha,"{'city': 'Omaha, NE', 'country': 'US', 'latitude': 41.25832, 'longitude': -96.00853}",Heartland B-cycle
+"['BCycle, LLC']",houston,"{'city': 'Houston, TX', 'country': 'US', 'latitude': 29.75983, 'longitude': -95.36949}",Houston B-cycle
+"['Motivate International, Inc.', 'PBSC Urban Solutions']",blue-bikes,"{'city': 'Boston, MA', 'country': 'US', 'latitude': 42.3584308, 'longitude': -71.0597732}",Blue Bikes
+['Comunicare S.r.l.'],ustica,"{'city': 'Ustica', 'country': 'IT', 'latitude': 38.7031179, 'longitude': 13.1682675}",Ustica
+"['City of Philadelphia', 'Bicycle Transit Systems', 'BCycle, LLC']",indego,"{'city': 'Philadelphia, PA', 'country': 'US', 'latitude': 39.95378, 'longitude': -75.16374}",Indego
+"['BCycle, LLC']",indiana-pacers-bikeshare,"{'city': 'Indianapolis, IN', 'country': 'US', 'latitude': 39.76593, 'longitude': -86.16216}",Indiana Pacers Bikeshare
+"['CycleHop, LLC', 'Social Bicycles Inc.']",juice-bike-share,"{'city': 'Orlando, FL', 'country': 'US', 'latitude': 28.536663311743688, 'longitude': -81.37922197580338}",Juice
+['Comunicare S.r.l.'],bici-co,"{'city': 'Como', 'country': 'IT', 'latitude': 45.8080597, 'longitude': 9.0851765}",BICI&CO
+"['BCycle, LLC']",kansascity,"{'city': 'Kansas City, MO', 'country': 'US', 'latitude': 39.0999, 'longitude': -94.5857}",B-cycle
+"['BCycle, LLC']",linkdayton,"{'city': 'Dayton, OH', 'country': 'US', 'latitude': 39.75626, 'longitude': -84.21119}",Link
+"['BCycle, LLC']",madison,"{'city': 'Madison, WI', 'country': 'US', 'latitude': 43.07571, 'longitude': -89.38527}",B-cycle
+"['Los Angeles County Metropolitan Transportation Authority (Metro)', 'Bicycle Transit Systems', 'BCycle, LLC']",metro-bike-share,"{'city': 'Los Angeles, CA', 'country': 'US', 'latitude': 34.04855, 'longitude': -118.25905}",Metro Bike Share
+"['Mountain Rides', 'Social Bicycles Inc.']",mountain-rides-bike-share,"{'city': 'Ketchum / Sun Valley, ID', 'country': 'US', 'latitude': 43.5194695168239, 'longitude': -114.317415758737}",Mountain Rides Bike Share
+"['Nice Ride Minnesota', 'Lyft']",nice-ride,"{'city': 'Minneapolis, MN', 'country': 'US', 'latitude': 44.983334, 'longitude': -93.26666999999999}",Nice Ride
+['Comunicare S.r.l.'],speziainbici,"{'city': 'La Spezia', 'country': 'IT', 'latitude': 44.1024504, 'longitude': 9.824082599999999}",Speziainbici
+"['BCycle, LLC']",sanantonio,"{'city': 'San Antonio, TX', 'country': 'US', 'latitude': 29.43701, 'longitude': -98.48236}",SWell Cycle
+['Social Bicycles Inc.'],share-a-bull-bikes,"{'city': 'University of South Florida, FL', 'country': 'US', 'latitude': 28.060548696070995, 'longitude': -82.4076198041439}",Share-a-Bull Bikes
+['Comunicare S.r.l.'],venezia,"{'city': 'Venezia', 'country': 'IT', 'latitude': 45.4408474, 'longitude': 12.3155151}",Venezia
+['Social Bicycles Inc.'],sobi-long-beach,"{'city': 'Long Beach, NY', 'country': 'US', 'latitude': 40.5833058203002, 'longitude': -73.6482682794673}",SoBi
+"['BCycle, LLC']",spartanburg,"{'city': 'Spartanburg, SC', 'country': 'US', 'latitude': 34.94867, 'longitude': -81.93345}",Spartanburg BCycle
+"['Topeka Metropolitan Transit Authority', 'Social Bicycles Inc.']",topeka-metro-bikes,"{'city': 'Topeka, KS', 'country': 'US', 'latitude': 39.0337646098385, 'longitude': -95.7027213202284}",Topeka Metro Bikes
+['Comunicare S.r.l.'],to-bike,"{'city': 'Torino', 'country': 'IT', 'latitude': 45.07098200000001, 'longitude': 7.685676}",[TO]BIKE
+['Social Bicycles Inc.'],ubike,"{'city': 'University of Virginia, VA', 'country': 'US', 'latitude': 38.0357625021372, 'longitude': -78.5072994363201}",UBike
+"['CycleHop, LLC', 'Social Bicycles Inc']",relay-atlanta,"{'city': 'Atlanta, GA', 'country': 'US', 'latitude': 33.7627941119619, 'longitude': -84.38727110624313}",Relay Bike Share
+"['Tembici', 'PBSC Urban Solutions']",bikerecife,"{'city': 'Recife', 'country': 'BR', 'latitude': -8.047129, 'longitude': -34.873437}",BikeRecife
+"['Tembici', 'PBSC Urban Solutions']",bikesampa,"{'city': 'São Paulo', 'country': 'BR', 'latitude': -23.55, 'longitude': -46.6333}",BikeSampa
+"['Tembici', 'PBSC Urban Solutions']",bikerio,"{'city': 'Rio de Janeiro', 'country': 'BR', 'latitude': -22.904315, 'longitude': -43.184776}",BikeRio
+"['Tembici', 'PBSC Urban Solutions']",bikesalvador,"{'city': 'Salvador', 'country': 'BR', 'latitude': -12.973959, 'longitude': -38.508171}",BikeSalvador
+"['Tembici', 'PBSC Urban Solutions']",bikepoa,"{'city': 'Porto Alegre', 'country': 'BR', 'latitude': -30.033079, 'longitude': -51.23654}",BikePOA
+"['BKT bici publica S.A. de C.V.', 'PBSC Urban Solutions']",mibici-guadalajara,"{'city': 'Guadalajara', 'country': 'MX', 'latitude': 20.6737883, 'longitude': -103.3704325}",MIBICI
+"['Your Bike', 'Urban Sharing']",edinburgh-cycle-hire,"{'city': 'Edinburgh', 'country': 'UK', 'latitude': 55.9411885, 'longitude': -3.2753783}",Just Eat Cycles
+"['PBSC', 'Alta Bicycle Share, Inc']",melbourne-bike-share,"{'city': 'Melbourne', 'country': 'AU', 'latitude': -37.814107, 'longitude': 144.96328}",Melbourne Bike Share
+['PBSC Urban Solutions'],libelo,"{'city': 'Valence', 'country': 'FR', 'latitude': 44.922726, 'longitude': 4.905634}",Libélo
+"['Tembici', 'PBSC Urban Solutions']",bikesantiago,"{'city': 'Santiago', 'country': 'CL', 'latitude': -33.45, 'longitude': -70.67}",BikeSantiago
+,oslo-bysykkel,"{'city': 'Oslo', 'country': 'NO', 'latitude': 59.913869, 'longitude': 10.752245}",Bysykkel
+,bergen-bysykkel,"{'city': 'Bergen', 'country': 'NO', 'latitude': 60.391263, 'longitude': 5.322054}",Bysykkel
+,trondheim-bysykkel,"{'city': 'Trondheim', 'country': 'NO', 'latitude': 63.4307238, 'longitude': 10.3936781}",Bysykkel
+"['Keolis', 'Rennes Metropole']",le-velo-star,"{'city': 'Rennes', 'country': 'FR', 'latitude': 48.114167, 'longitude': -1.680833}",LE vélo Star
+['Keolis Bordeaux Métropole'],v3-bordeaux,"{'city': 'Bordeaux', 'country': 'FR', 'latitude': 44.837789, 'longitude': -0.57918}",V³
+['Keolis'],vlille,"{'city': 'Lille', 'country': 'FR', 'latitude': 50.62925, 'longitude': 3.057256}",V'Lille
+"['Keolis', 'STAP']",idecycle,"{'city': 'Pau', 'country': 'FR', 'latitude': 43.2951, 'longitude': -0.370797}",IDECycle
+['Labici Bicicletas Públicas SL'],bicialtea,"{'city': 'Altea', 'country': 'ES', 'latitude': 38.6029075, 'longitude': -0.0450666}",Bicialtea
+['Labici Bicicletas Públicas SL'],bicidorm,"{'city': 'Benidorm', 'country': 'ES', 'latitude': 38.5410566, 'longitude': -0.1224937}",Bicidorm
+['Labici Bicicletas Públicas SL'],saforbici,"{'city': 'Gandía', 'country': 'ES', 'latitude': 38.968032, 'longitude': -0.1844671}",SaforBici
+['Comunicare S.r.l.'],ciclopi,"{'city': 'Pisa', 'country': 'IT', 'latitude': 43.7228386, 'longitude': 10.4016888}",Ciclopi
+['Labici Bicicletas Públicas SL'],gbici,"{'city': 'Getafe', 'country': 'ES', 'latitude': 40.3082504, 'longitude': -3.7323934}",Gbici
+['Labici Bicicletas Públicas SL'],muybici,"{'city': 'Murcia', 'country': 'ES', 'latitude': 37.9922399, 'longitude': -1.1306544}",MuyBici
+['Labici Bicicletas Públicas SL'],ponfemobi,"{'city': 'Ponferrada', 'country': 'ES', 'latitude': 42.5499958, 'longitude': -6.598259000000001}",PonfeMobi
+['Labici Bicicletas Públicas SL'],vaibike,"{'city': 'Vilagarcía de Arousa', 'country': 'ES', 'latitude': 42.5999265, 'longitude': -8.7885744}",VaiBike
+['Comunicare S.r.l.'],cagliari,"{'city': 'Cagliari', 'country': 'IT', 'latitude': 39.220817, 'longitude': 9.121399}",Cagliari
+['Buenos Aires Ciudad'],ecobici-buenos-aires,"{'city': 'Buenos Aires', 'country': 'AR', 'latitude': -34.630665, 'longitude': -58.41156}",Ecobici
+['EMEL'],gira,"{'city': 'Lisbon', 'country': 'PT', 'latitude': 38.724954, 'longitude': -9.149334}",Gira
+['Comunicare S.r.l.'],gimme-bike,"{'city': 'Varese', 'country': 'IT', 'latitude': 45.8183902, 'longitude': 8.823913}",Gimme Bike
+['JCDecaux'],cyclic,"{'city': 'Rouen', 'country': 'FR', 'latitude': 49.44323199999999, 'longitude': 1.099971}",cy'clic
+['JCDecaux'],velo,"{'city': 'Toulouse', 'country': 'FR', 'latitude': 43.604652, 'longitude': 1.444209}",Vélô
+['JCDecaux'],veloh,"{'city': 'Luxembourg', 'country': 'LU', 'latitude': 49.6301025, 'longitude': 6.1520185}",Veloh
+['JCDecaux'],valenbisi,"{'city': 'Valencia', 'country': 'ES', 'latitude': 39.4699075, 'longitude': -0.3762881}",Valenbisi
+['Comunicare S.r.l.'],sellero,"{'city': 'Sellero', 'country': 'IT', 'latitude': 46.06304765446406, 'longitude': 10.353434085845947}",Sellero
+['JCDecaux'],goeteborg,"{'city': 'Göteborg', 'country': 'SE', 'latitude': 57.70887, 'longitude': 11.97456}",Styr & Ställ
+['JCDecaux'],lundahoj,"{'city': 'Lund', 'country': 'SE', 'latitude': 55.7046601, 'longitude': 13.1910073}",Lundahoj
+['Comunicare S.r.l.'],ugento,"{'city': 'Ugento', 'country': 'IT', 'latitude': 39.9273518, 'longitude': 18.1582962}",Ugento
+['JCDecaux'],tusbic,"{'city': 'Santander', 'country': 'ES', 'latitude': 43.46230569999999, 'longitude': -3.8099803}",Tusbic
+['JCDecaux'],velam,"{'city': 'Amiens', 'country': 'FR', 'latitude': 49.894067, 'longitude': 2.295753}",Velam
+['JCDecaux'],bysykkel-lillestrom,"{'city': 'Lillestrøm', 'country': 'NO', 'latitude': 59.9559696, 'longitude': 11.0503785}",Bysykkel
+['JCDecaux'],velocite-mulhouse,"{'city': 'Mulhouse', 'country': 'FR', 'latitude': 47.750839, 'longitude': 7.335888}",VéloCité
+['Comunicare S.r.l.'],prata-camportaccio,"{'city': 'Prata Camportaccio', 'country': 'IT', 'latitude': 46.3042146, 'longitude': 9.3964914}",Prata Camportaccio
+['JCDecaux'],velov,"{'city': 'Lyon', 'country': 'FR', 'latitude': 45.764043, 'longitude': 4.835659}",Vélo'V
+['JCDecaux'],bicikelj,"{'city': 'Ljubljana', 'country': 'SI', 'latitude': 46.05645089999999, 'longitude': 14.5080702}",Bicikelj
+['Comunicare S.r.l.'],civitavecchia,"{'city': 'Civitavecchia', 'country': 'IT', 'latitude': 42.0937524, 'longitude': 11.7922462}",Civitavecchia
+['JCDecaux'],sevici,"{'city': 'Sevilla', 'country': 'ES', 'latitude': 37.3880961, 'longitude': -5.9823299}",Sevici
+['Comunicare S.r.l.'],longanoinbici,"{'city': 'Barcellona Pozzo di Gotto', 'country': 'IT', 'latitude': 38.149812517944284, 'longitude': 15.212116241455078}",LonganoinBici
+['JCDecaux'],li-bia-velo,"{'city': 'Namur', 'country': 'BE', 'latitude': 50.465328, 'longitude': 4.867665}",Li bia velo
+['JCDecaux'],velostanlib,"{'city': 'Nancy', 'country': 'FR', 'latitude': 48.692054, 'longitude': 6.184417}",vélOstan'lib
+['JCDecaux'],cristolib,"{'city': 'Créteil', 'country': 'FR', 'latitude': 48.790367, 'longitude': 2.455572}",Cristolib
+['JCDecaux'],villo,"{'city': 'Bruxelles', 'country': 'BE', 'latitude': 50.8503396, 'longitude': 4.3517103}",villo
+['Comunicare S.r.l.'],cassano-d-adda,"{'city': ""Cassano d'Adda"", 'country': 'IT', 'latitude': 45.5309616, 'longitude': 9.5155813}",Cassano d'Adda
+['JCDecaux'],velo2,"{'city': 'Cergy', 'country': 'FR', 'latitude': 49.03561699999999, 'longitude': 2.060325}",Velo2
+['JCDecaux'],vilnius-cyclocity,"{'city': 'Vilnius', 'country': 'LT', 'latitude': 54.6871555, 'longitude': 25.2796514}",Cyclocity
+['JCDecaux'],toyama-cyclocity,"{'city': '富山市', 'country': 'JP', 'latitude': 36.6959518, 'longitude': 137.2136768}",cyclocity
+['JCDecaux'],velik,"{'city': 'Казань', 'country': 'RU', 'latitude': 55.7949414, 'longitude': 49.1050445}",Veli'k
+['Comunicare S.r.l.'],bianzone-in-bici,"{'city': 'Bianzone', 'country': 'IT', 'latitude': 46.188197, 'longitude': 10.109354}",Bianzone in Bici
+['JCDecaux'],le-velo,"{'city': 'Marseille', 'country': 'FR', 'latitude': 43.296482, 'longitude': 5.36978}",Le vélo
+['JCDecaux'],bicloo,"{'city': 'Nantes', 'country': 'FR', 'latitude': 47.218371, 'longitude': -1.553621}",Bicloo
+['JCDecaux'],velocite-besancon,"{'city': 'Besançon', 'country': 'FR', 'latitude': 47.237829, 'longitude': 6.024053899999999}",VéloCité
+['Comunicare S.r.l.'],rietinbici,"{'city': 'Rieti', 'country': 'IT', 'latitude': 42.40262397383167, 'longitude': 12.86099910736084}",Rietinbici
+['JCDecaux'],dublinbikes,"{'city': 'Dublin', 'country': 'IE', 'latitude': 53.3498053, 'longitude': -6.2603097}",dublinbikes
+['JCDecaux'],citycycle,"{'city': 'Brisbane', 'country': 'AU', 'latitude': -27.4710107, 'longitude': 153.0234489}",CityCycle
+,bicipalma,"{'city': 'Palma', 'country': 'ES', 'latitude': 39.57119, 'longitude': 2.646634}",Bicipalma
+['Cyacle Bicycle Rental LLC'],adcb-bikeshare,"{'city': 'Abu Dhabi', 'country': 'AE', 'latitude': 24.450278, 'longitude': 54.39}",ADCB Bikeshare
+['Comunicare S.r.l.'],castellucchio,"{'city': 'Castellucchio', 'country': 'IT', 'latitude': 45.15047821582959, 'longitude': 10.651202201843262}",Castellucchio
+['Veolia'],velobleu,"{'city': 'Nice', 'country': 'FR', 'latitude': 43.695949, 'longitude': 7.271413}",Vélo Bleu
+['Comunicare S.r.l.'],notoinbici,"{'city': 'Noto', 'country': 'IT', 'latitude': 36.889437754839854, 'longitude': 15.074658393859863}",NotoinBici
+['Comunicare S.r.l.'],enna,"{'city': 'Enna', 'country': 'IT', 'latitude': 37.56342572664775, 'longitude': 14.27973747253418}",Enna
+['Comunicare S.r.l.'],pordenone,"{'city': 'Pordenone', 'country': 'IT', 'latitude': 45.94790101663391, 'longitude': 12.674491020251475}",Pordenone
+['Veolia'],vel-in,"{'city': 'Calais', 'country': 'FR', 'latitude': 50.95, 'longitude': 1.85}",Vél'in
+['Comunicare S.r.l.'],carbonia,"{'city': 'Carbonia', 'country': 'IT', 'latitude': 39.167222, 'longitude': 8.522222}",Carbonia
+['Municipiul Cluj-Napoca'],clujbike,"{'city': 'Cluj-Napoca', 'country': 'RO', 'latitude': 46.775, 'longitude': 23.5975}",Cluj Bike
+['Comunicare S.r.l.'],mobike,"{'city': 'Genova', 'country': 'IT', 'latitude': 44.40430089372731, 'longitude': 8.92908986230462}",MoBike
+"['Prefeiture de Sorocaba', 'Urbes']",integrabike,"{'city': 'Sorocaba', 'country': 'BR', 'latitude': -23.5015, 'longitude': -47.4526}",Integrabike
+['Comunicare S.r.l.'],scegli-in-bici,"{'city': 'Cremona', 'country': 'IT', 'latitude': 45.134914104864116, 'longitude': 10.0222648619018}",Scegli in Bici
+"['Associação dos Amigos da Riviera de São Lourenço', 'Sobloco']",rivibike,"{'city': 'São Lourenço', 'country': 'BR', 'latitude': -22.1124, 'longitude': -45.028}",RiviBike
+['Comunicare S.r.l.'],e-motion-trento,"{'city': 'Trento', 'country': 'IT', 'latitude': 46.06643205823519, 'longitude': 11.122145390351879}",e.motion
+"['Duke Energy Brasil', 'Governo de Ipaussu']",dukebike,"{'city': 'Ipaússu', 'country': 'BR', 'latitude': -23.0553, 'longitude': -49.6237}",DukeBike
+"['Barcelona de Serveis Municipals, S.A. (BSM)', 'CESPA', 'PBSC']",bicing,"{'city': 'Barcelona', 'country': 'ES', 'latitude': 41.3850639, 'longitude': 2.1734035}",Bicing
+['Baksi Bike Sharing System'],baksi-antalya,"{'city': 'Antalya', 'country': 'TR', 'latitude': 36.862048, 'longitude': 30.638866}",Baksi
+['Baksi Bike Sharing System'],baksi-bisim,"{'city': 'Izmir', 'country': 'TR', 'latitude': 38.4134047464, 'longitude': 27.0325753524}",Baksi
+['Comunicare S.r.l.'],e-motion-rovereto,"{'city': 'Rovereto', 'country': 'IT', 'latitude': 45.88710661061543, 'longitude': 11.042242751867644}",e.motion
+['Baksi Bike Sharing System'],baksi-istanbul,"{'city': 'Istanbul', 'country': 'TR', 'latitude': 40.9696887925, 'longitude': 29.0475373717}",Isbike
+['Baksi Bike Sharing System'],baksi-kobis,"{'city': 'Kocaeli', 'country': 'TR', 'latitude': 40.7674733342, 'longitude': 29.9755885985}",Baksi
+"['Helsinki City Transport', 'Helsinki Regional Transport', 'CityBikeFinland', 'Smoove SAS', 'Moventia', 'Alepa']",citybikes-helsinki,"{'city': 'Helsinki', 'country': 'FI', 'latitude': 60.16985569999999, 'longitude': 24.938379}",City bikes
+['Comunicare S.r.l.'],monopoli-bike,"{'city': 'Monopoli', 'country': 'IT', 'latitude': 40.94519109440738, 'longitude': 17.311687995336918}",Monopoli BIKE
+"['Turku Region Traffic Föli', 'Nextbike Polska']",foli,"{'city': 'Turku', 'country': 'FI', 'latitude': 60.4506, 'longitude': 22.2666}",Föli-fillari
+['Comunicare S.r.l.'],bicimia,"{'city': 'Brescia', 'country': 'IT', 'latitude': 45.5378, 'longitude': 10.2173}",bicimia
+['FSM Ground Services Ltd.'],telofun,"{'city': ""Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan"", 'country': 'IL', 'latitude': 32.087053, 'longitude': 34.789776}",Tel-O-Fun
+['Comunicare S.r.l.'],andria,"{'city': 'Andria', 'country': 'IT', 'latitude': 41.224346932834, 'longitude': 16.296983922753956}",Andria in Bici
+['Open Source Bike Share'],whitebikes,"{'city': 'Bratislava', 'country': 'SK', 'latitude': 48.149424, 'longitude': 17.113922}",WhiteBikes
+"['Dopravný podnik Bratislava', 'Bratislavská integrovaná doprava, a.s.', 'Hlavné mesto SR Bratislava']",slovnaft-bajk,"{'city': 'Bratislava', 'country': 'SK', 'latitude': 48.1356952, 'longitude': 16.9758332}",Slovnaft BAjk
+['Open Source Bike Share'],cykl,"{'city': 'Wageningen', 'country': 'NL', 'latitude': 51.974, 'longitude': 5.6671}",Cykl
+['Open Source Bike Share'],bicyklezadobreskutky,"{'city': 'Prešov', 'country': 'SK', 'latitude': 48.996275, 'longitude': 21.234341}",Bicykle za dobré skutky
+['Social Bicycles Inc.'],socialbicycles-wavelo,"{'city': 'Kraków', 'country': 'PL', 'latitude': 50.06143, 'longitude': 19.93658}",Wavelo
+['Comunicare S.r.l.'],bicinquartucciu,"{'city': 'Quartucciu', 'country': 'IT', 'latitude': 39.25043149806156, 'longitude': 9.179296426489255}",BicinQuartucciu
+['Mainzer Verkehrsgesellschaft mbH (MVG)'],mvgmeinrad,"{'city': 'Mainz', 'country': 'DE', 'latitude': 49.992862, 'longitude': 8.247253}",MVGmeinrad
+['Sistema de Bicicletas Públicas del Valle de Aburrá'],encicla,"{'city': 'Medellin', 'country': 'CO', 'latitude': 6.254942, 'longitude': -75.567982}",EnCicla
+['Comunicare S.r.l.'],olbia-bike,"{'city': 'Olbia', 'country': 'IT', 'latitude': 40.9240543, 'longitude': 9.4994397}",Olbia Bike
+"['Vanncouver Bike Share Inc', 'CycleHop LLC', 'City of Vancouver', 'Smoove SAS']",mobibikes,"{'city': 'Vancouver', 'country': 'CA', 'latitude': 49.2827, 'longitude': -123.1207}",Mobi
+['Comunicare S.r.l.'],savona,"{'city': 'Savona', 'country': 'IT', 'latitude': 44.29516444397244, 'longitude': 8.463126708984431}",Savona
+"['CityBike France', 'PBSC Urban Solutions']",c-velo,"{'city': 'Clermont-Ferrand', 'country': 'FR', 'latitude': 45.7831, 'longitude': 3.0824}",C.vélo
+['Smoove'],velivert,"{'city': 'Saint-Étienne', 'country': 'FR', 'latitude': 45.396667, 'longitude': 4.290833}",VéliVert
+['Comunicare S.r.l.'],brindisi,"{'city': 'Brindisi', 'country': 'IT', 'latitude': 40.637580319936106, 'longitude': 17.940774547082572}",BrindisiByBike
+['Smoove'],velopop,"{'city': 'Avignon', 'country': 'FR', 'latitude': 43.943689, 'longitude': 4.805833}",Vélopop
+['Smoove'],batumvelo,"{'city': 'Batumi', 'country': 'GE', 'latitude': 41.660906, 'longitude': 41.678835}",Batumvelo
+['Comunicare S.r.l.'],tradate,"{'city': 'Tradate', 'country': 'IT', 'latitude': 45.70938576720161, 'longitude': 8.915993391601548}",Tradate
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",bikebh,"{'city': 'Belo Horizonte', 'country': 'BR', 'latitude': -19.920793, 'longitude': -43.922165}",BikeBH
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",bikepetrolina,"{'city': 'Petrolina', 'country': 'BR', 'latitude': -9.389049, 'longitude': -40.502751}",BikePetrolina
+['Comunicare S.r.l.'],jesinbici,"{'city': 'Jesi', 'country': 'IT', 'latitude': 43.522601, 'longitude': 13.244448}",JesinBici
+['Comunicare S.r.l.'],nbici,"{'city': 'Pamplona', 'country': 'ES', 'latitude': 42.8116631, 'longitude': -1.6482653}",nbici
+['Tembici'],bikebrasilia,"{'city': 'Brasília', 'country': 'BR', 'latitude': -15.795115, 'longitude': -47.887424}",BikeBrasilia
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",debikegoiania,"{'city': 'Goiânia', 'country': 'BR', 'latitude': -16.670492, 'longitude': -49.259535}",GynDebike
+['Comunicare S.r.l.'],treviso,"{'city': 'Treviso', 'country': 'IT', 'latitude': 45.6669011, 'longitude': 12.243039}",Treviso
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",bicicletar,"{'city': 'Fortaleza', 'country': 'BR', 'latitude': -3.7321944, 'longitude': -38.510347}",Bicicletar
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",cajubike,"{'city': 'Aracajú', 'country': 'BR', 'latitude': -10.987263, 'longitude': -37.051898}",CajuBike
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",bikebelem,"{'city': 'Belém', 'country': 'BR', 'latitude': -1.4600794, 'longitude': -48.490865}",Bike Belém
+['Comunicare S.r.l.'],sondrio,"{'city': 'Sondrio', 'country': 'IT', 'latitude': 46.1698583, 'longitude': 9.8787674}",Sondrio
+"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",bikesantos,"{'city': 'Santos', 'country': 'BR', 'latitude': -23.954052, 'longitude': -46.333345}",BikeSantos
+['Comunicare S.r.l.'],vercelli,"{'city': 'Vercelli', 'country': 'IT', 'latitude': 45.32022720000001, 'longitude': 8.418573499999999}",Vercelli
+['Comunicare S.r.l.'],portofino-park-and-bike,"{'city': 'Santa Margherita Ligure - Portofino - Camogli', 'country': 'IT', 'latitude': 44.335084, 'longitude': 9.211264}",Portofino Park and Bike
+"['Mobilicidade Tecnologia LTD', 'Municipalidad de Rosario']",mibicitubici,"{'city': 'Rosario', 'country': 'AR', 'latitude': -32.95, 'longitude': -60.65}",Mi bici tu bici
+['DecoBike LLC'],decobike-miami-beach,"{'city': 'Miami Beach, FL', 'country': 'US', 'latitude': 25.790654, 'longitude': -80.1300455}",Citi Bike Miami
+['DecoBike LLC'],decobike-san-diego,"{'city': 'San Diego, CA', 'country': 'US', 'latitude': 32.715738, 'longitude': -117.1610838}",Decobike San Diego
+['Comunicare S.r.l.'],meglio-in-bici,"{'city': 'Cernusco sul Naviglio - Pioltello - Carugate', 'country': 'IT', 'latitude': 45.520541, 'longitude': 9.341984}",Meglio in Bici
+"['BCycle, LLC']",desmoines,"{'city': 'Des Moines, IA', 'country': 'US', 'latitude': 41.6005448, 'longitude': -93.6091064}",Des Moines B-cycle
+['Comunicare S.r.l.'],ossola,"{'city': 'Santa Maria Maggiore - Malesco - Villette', 'country': 'IT', 'latitude': 46.127196, 'longitude': 8.499169}",Comunità Montana Valli dell'Ossola
+"['BCycle, LLC']",greenville,"{'city': 'Greenville, SC', 'country': 'US', 'latitude': 34.85261759999999, 'longitude': -82.3940104}",Greenville B-cycle
+['Comunicare S.r.l.'],bicincitta-mezzolombardo,"{'city': 'Mezzolombardo', 'country': 'IT', 'latitude': 46.21400260000001, 'longitude': 11.0967867}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-lausanne-campus-morges,"{'city': 'Lausanne - Morges - Campus', 'country': 'CH', 'latitude': 46.5196535, 'longitude': 6.6322734}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-scafati,"{'city': 'Scafati', 'country': 'IT', 'latitude': 40.7620174, 'longitude': 14.5363969}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-livorno,"{'city': 'Livorno', 'country': 'IT', 'latitude': 43.548473, 'longitude': 10.3105674}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-valais-central,"{'city': 'Sion', 'country': 'CH', 'latitude': 46.2331221, 'longitude': 7.360625999999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-forli,"{'city': 'Forlì', 'country': 'IT', 'latitude': 44.2227398, 'longitude': 12.0407312}",Mi Muovo in Bici
+['Comunicare S.r.l.'],bicincitta-rivarolo-canavese,"{'city': 'Rivarolo Canavese', 'country': 'IT', 'latitude': 45.306633, 'longitude': 7.723242}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-monserrato,"{'city': 'Monserrato', 'country': 'IT', 'latitude': 39.2560191, 'longitude': 9.1453579}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-mezzocorona,"{'city': 'Mezzocorona', 'country': 'IT', 'latitude': 46.2339047, 'longitude': 11.1277461}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-san-lazzaro-di-savena,"{'city': 'San Lazzaro di Savena', 'country': 'IT', 'latitude': 44.4702725, 'longitude': 11.409399}",Mi Muovo in Bici
+['Comunicare S.r.l.'],bicincitta-san-teodoro,"{'city': 'San Teodoro', 'country': 'IT', 'latitude': 40.7722837, 'longitude': 9.6695458}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-parco-molentargius-saline,"{'city': 'Parco Naturale Molentargius - Saline', 'country': 'IT', 'latitude': 39.2052545, 'longitude': 9.146761099999999}",Bicincittà
+['Comunicare S.r.l.'],parkinbici,"{'city': 'Parco Nazionale del Gargano', 'country': 'IT', 'latitude': 41.7817081, 'longitude': 15.8516421}",Parkinbici
+['Comunicare S.r.l.'],bicincitta-gallipoli,"{'city': 'Gallipoli', 'country': 'IT', 'latitude': 40.0558554, 'longitude': 17.9925085}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-castel-guelfo-the-style-outlets,"{'city': 'Castel Guelfo di Bologna', 'country': 'IT', 'latitude': 44.4328527, 'longitude': 11.6750857}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-san-michele-alladige,"{'city': ""San Michele All'adige"", 'country': 'IT', 'latitude': 46.1878653, 'longitude': 11.1330423}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-agglo-fribourg,"{'city': 'Fribourg', 'country': 'CH', 'latitude': 46.8064773, 'longitude': 7.161971899999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-modena,"{'city': 'Modena', 'country': 'IT', 'latitude': 44.647128, 'longitude': 10.9252269}",Mi Muovo in bici
+['Comunicare S.r.l.'],bicincitta-brancaleone,"{'city': 'Brancaleone', 'country': 'IT', 'latitude': 37.9679084, 'longitude': 16.0757749}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-bulle,"{'city': 'Bulle', 'country': 'CH', 'latitude': 46.6154512, 'longitude': 7.057726799999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-riviera,"{'city': ""Distretto della Riviera-Pays-d'Enhaut"", 'country': 'CH', 'latitude': 46.4628333, 'longitude': 6.8419192}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-scandiano,"{'city': 'Scandiano', 'country': 'IT', 'latitude': 44.5982342, 'longitude': 10.6909273}",Mi Muovo in Bici
+['Comunicare S.r.l.'],bicincitta-elmas,"{'city': 'Elmas', 'country': 'IT', 'latitude': 39.2634329, 'longitude': 9.0515805}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-tivat,"{'city': 'TV', 'country': 'ME', 'latitude': 42.4349809, 'longitude': 18.7066398}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-acquaviva-delle-fonti,"{'city': 'Acquaviva delle fonti', 'country': 'IT', 'latitude': 40.9303721, 'longitude': 16.8414374}",Bicincittà
+['Comunicare S.r.l.'],we-love-bike,"{'city': 'Lodi', 'country': 'IT', 'latitude': 45.3097228, 'longitude': 9.503715999999999}",We Love bike
+['Comunicare S.r.l.'],bicincitta-acquarica-del-capo,"{'city': 'Acquarica del Capo', 'country': 'IT', 'latitude': 39.9144573, 'longitude': 18.2450324}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-vicolungo-the-style-outlets,"{'city': 'Vicolungo', 'country': 'IT', 'latitude': 45.47167229999999, 'longitude': 8.4633922}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-porto-torres,"{'city': 'Porto Torres', 'country': 'IT', 'latitude': 40.8333682, 'longitude': 8.402292899999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-cisterna-di-latina,"{'city': 'Cisterna di Latina', 'country': 'IT', 'latitude': 41.5754029, 'longitude': 12.8284772}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-casaletto-spartano,"{'city': 'Casaletto Spartano', 'country': 'IT', 'latitude': 40.1532801, 'longitude': 15.6211479}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-selargius,"{'city': 'Selargius', 'country': 'IT', 'latitude': 39.2596768, 'longitude': 9.1629372}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-yverdon-les-bains,"{'city': 'Yverdon-les-Bains', 'country': 'CH', 'latitude': 46.7784736, 'longitude': 6.641183}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-monza,"{'city': 'Monza', 'country': 'IT', 'latitude': 45.5845001, 'longitude': 9.2744485}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-la-cote,"{'city': 'Nyon', 'country': 'CH', 'latitude': 46.3832683, 'longitude': 6.2347852}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-morigerati,"{'city': 'Morigerati', 'country': 'IT', 'latitude': 40.1422031, 'longitude': 15.5298525}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-san-donato-milanese,"{'city': 'San Donato Milanese', 'country': 'IT', 'latitude': 45.4092402, 'longitude': 9.2684867}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-chablais,"{'city': 'Monthey - Aigle', 'country': 'CH', 'latitude': 46.2521873, 'longitude': 6.9469598}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-ente-parco-del-circeo,"{'city': 'Parco Nazionale del Circeo', 'country': 'IT', 'latitude': 41.3151015, 'longitude': 13.0330782}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-cesena,"{'city': 'Cesena', 'country': 'IT', 'latitude': 44.1396438, 'longitude': 12.2464292}",Mi Muovo in bici
+['Comunicare S.r.l.'],bicincitta-lugano-paradiso,"{'city': 'Paradiso', 'country': 'CH', 'latitude': 45.9907174, 'longitude': 8.945261799999999}",Bicincittà
+['Comunicare S.r.l.'],lecco,"{'city': 'Lecco', 'country': 'IT', 'latitude': 45.8565698, 'longitude': 9.397670399999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-alghero,"{'city': 'Alghero', 'country': 'IT', 'latitude': 40.5579517, 'longitude': 8.319294900000001}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-san-giovanni-in-persiceto,"{'city': 'San Giovanni in Persiceto', 'country': 'IT', 'latitude': 44.6405433, 'longitude': 11.1893053}",Mi Muovo in Bici
+['Comunicare S.r.l.'],bicincitta-ente-parco-san-rossore,"{'city': 'Parco naturale Migliarino San Rossore Massaciuccoli', 'country': 'IT', 'latitude': 43.723826, 'longitude': 10.339509}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-treviglio,"{'city': 'Treviglio', 'country': 'IT', 'latitude': 45.5293372, 'longitude': 9.591435899999999}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-lavis,"{'city': 'Lavis', 'country': 'IT', 'latitude': 46.1408423, 'longitude': 11.1124935}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-les-lacs-romont,"{'city': 'Murten', 'country': 'CH', 'latitude': 46.92922110000001, 'longitude': 7.120184}",Bicincittà
+['Comunicare S.r.l.'],bicincitta-ente-parco-di-montemarcello-magra,"{'city': 'Ente Parco Montemarcello Magra', 'country': 'IT', 'latitude': 44.1143897, 'longitude': 9.9635986}",Bicincittà
+['Comunicare S.r.l.'],bicischio,"{'city': 'Schio', 'country': 'IT', 'latitude': 45.7170517, 'longitude': 11.3597702}",BiciSchio
+['Comunicare S.r.l.'],bicincitta-imola,"{'city': 'Imola', 'country': 'IT', 'latitude': 44.3559128, 'longitude': 11.7161197}",Mi Muovo in bici
+['Nextbike GmbH'],nextbike-leipzig,"{'city': 'Leipzig', 'country': 'DE', 'latitude': 51.3415, 'longitude': 12.3625}",Nextbike
+['Nextbike GmbH'],nextbike-wiesbaden,"{'city': 'Wiesbaden', 'country': 'DE', 'latitude': 50.0709, 'longitude': 8.24322}",Nextbike
+['Nextbike GmbH'],visa-frankfurt,"{'city': 'Frankfurt', 'country': 'DE', 'latitude': 50.1072, 'longitude': 8.66375}",VISA
+['Nextbike GmbH'],kvb-rad-koln,"{'city': 'Köln', 'country': 'DE', 'latitude': 50.9429, 'longitude': 6.95649}",KVB Rad
+['Nextbike GmbH'],facherrad-karlsruhe,"{'city': 'Karlsruhe', 'country': 'DE', 'latitude': 49.0102, 'longitude': 8.41827}",Fächerrad
+['Nextbike GmbH'],burgenland-neusiedler-see,"{'city': 'Neusiedler See', 'country': 'AT', 'latitude': 47.839, 'longitude': 16.761}",Burgenland
+['Nextbike GmbH'],nextbike-dusseldorf,"{'city': 'Düsseldorf', 'country': 'DE', 'latitude': 51.2243, 'longitude': 6.77204}",Nextbike
+['Nextbike GmbH'],nextbike-stpolten,"{'city': 'St.Pölten', 'country': 'AT', 'latitude': 48.2058, 'longitude': 15.6232}",Nextbike
+['Nextbike GmbH'],nextbike-modling,"{'city': 'Mödling', 'country': 'AT', 'latitude': 48.1047, 'longitude': 16.3202}",Nextbike
+['Nextbike GmbH'],nextbike-sursee,"{'city': 'Sursee', 'country': 'CH', 'latitude': 47.1713, 'longitude': 8.10877}",Nextbike
+['Nextbike GmbH'],nextbike-luzern,"{'city': 'Luzern', 'country': 'CH', 'latitude': 47.0472, 'longitude': 8.30446}",Nextbike
+['Nextbike GmbH'],sixt-riga,"{'city': 'Rīga', 'country': 'LV', 'latitude': 56.9453, 'longitude': 24.1033}",SiXT
+['Nextbike GmbH'],metropolradruhr-dortmund,"{'city': 'Dortmund', 'country': 'DE', 'latitude': 51.5141, 'longitude': 7.46255}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-bochum,"{'city': 'Bochum', 'country': 'DE', 'latitude': 51.4813, 'longitude': 7.2133}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-bottrop,"{'city': 'Bottrop', 'country': 'DE', 'latitude': 51.5263, 'longitude': 6.94611}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-duisburg,"{'city': 'Duisburg', 'country': 'DE', 'latitude': 51.4487, 'longitude': 6.77513}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-essen,"{'city': 'Essen', 'country': 'DE', 'latitude': 51.4425, 'longitude': 7.02301}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-gelsenkirchen,"{'city': 'Gelsenkirchen', 'country': 'DE', 'latitude': 51.5404, 'longitude': 7.07039}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-hamm,"{'city': 'Hamm', 'country': 'DE', 'latitude': 51.6775, 'longitude': 7.84836}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-herne,"{'city': 'Herne', 'country': 'DE', 'latitude': 51.5363, 'longitude': 7.21493}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-mulheim-adr,"{'city': 'Mülheim a.d.R.', 'country': 'DE', 'latitude': 51.4308, 'longitude': 6.87401}",metropolradruhr
+['Nextbike GmbH'],metropolradruhr-oberhausen,"{'city': 'Oberhausen', 'country': 'DE', 'latitude': 51.4936, 'longitude': 6.85169}",metropolradruhr
+['Nextbike GmbH'],nextbike-wachau,"{'city': 'Wachau', 'country': 'AT', 'latitude': 48.3188, 'longitude': 15.4166}",Nextbike
+['Nextbike GmbH'],nextbike-tulln,"{'city': 'Tulln', 'country': 'AT', 'latitude': 48.3269, 'longitude': 16.0569}",Nextbike
+['Nextbike GmbH'],nextbike-thermenregion,"{'city': 'Thermenregion', 'country': 'AT', 'latitude': 47.9892, 'longitude': 16.2646}",Nextbike
+['Nextbike GmbH'],wrm-wroclaw,"{'city': 'Wrocław', 'country': 'PL', 'latitude': 51.1097, 'longitude': 17.0485}",WRM
+['Nextbike GmbH'],nextbike-offenburg,"{'city': 'Offenburg', 'country': 'DE', 'latitude': 48.4721, 'longitude': 7.94243}",Nextbike
+['Nextbike GmbH'],nextbike-wrneustadt,"{'city': 'Wr.Neustadt', 'country': 'AT', 'latitude': 47.8167, 'longitude': 16.2426}",Nextbike
+['Nextbike GmbH'],nextbike-potsdam,"{'city': 'Potsdam', 'country': 'DE', 'latitude': 52.3997, 'longitude': 13.0676}",Nextbike
+['Nextbike GmbH'],nextbike-gutersloh,"{'city': 'Gütersloh', 'country': 'DE', 'latitude': 51.9049, 'longitude': 8.39275}",Nextbike
+['Nextbike GmbH'],nextbike-10vorwien,"{'city': '10vorWien', 'country': 'AT', 'latitude': 48.3403, 'longitude': 16.279}",Nextbike
+['Nextbike GmbH'],usedomrad-usedom,"{'city': 'Usedom', 'country': 'DE', 'latitude': 53.9779, 'longitude': 13.9925}",UsedomRad
+['Nextbike GmbH'],nextbike-norderstedt,"{'city': 'Norderstedt', 'country': 'DE', 'latitude': 53.6969, 'longitude': 10.002}",Nextbike
+['Nextbike GmbH'],swa-rad-augsburg,"{'city': 'Augsburg', 'country': 'DE', 'latitude': 48.3647, 'longitude': 10.8916}",SWA Rad
+['Nextbike GmbH'],nextbike-limassol,"{'city': 'Limassol', 'country': 'CY', 'latitude': 34.6823, 'longitude': 33.0464}",Nextbike
+['Nextbike GmbH'],prm-poznan,"{'city': 'Poznań', 'country': 'PL', 'latitude': 52.4077, 'longitude': 16.9323}",PRM
+['Nextbike GmbH'],nextbike-christchurch,"{'city': 'Christchurch', 'country': 'NZ', 'latitude': -43.5341, 'longitude': 172.621}",Nextbike
+['Nextbike GmbH'],vrn-heidelberg,"{'city': 'Heidelberg', 'country': 'DE', 'latitude': 49.4023, 'longitude': 8.67577}",VRN
+['Nextbike GmbH'],vrn-mannheim,"{'city': 'Mannheim', 'country': 'DE', 'latitude': 49.4869, 'longitude': 8.45638}",VRN
+['Nextbike GmbH'],stadtrad-innsbruck,"{'city': 'Innsbruck', 'country': 'AT', 'latitude': 47.2632, 'longitude': 11.3961}",Stadtrad
+['Nextbike GmbH'],nextbike-nicosia,"{'city': 'Nicosia', 'country': 'CY', 'latitude': 35.1728, 'longitude': 33.3653}",Nextbike
+['Nextbike GmbH'],veturilo-warszawa,"{'city': 'Warszawa', 'country': 'PL', 'latitude': 52.2265, 'longitude': 21.0127}",VETURILO
+['Nextbike GmbH'],nextbike-hollabrunn,"{'city': 'Hollabrunn', 'country': 'AT', 'latitude': 48.562, 'longitude': 16.0785}",Nextbike
+['Nextbike GmbH'],nextbike-wienerwald,"{'city': 'WienerWald', 'country': 'AT', 'latitude': 48.1926, 'longitude': 16.141}",Nextbike
+['Nextbike GmbH'],nextbike-zagreb,"{'city': 'Zagreb', 'country': 'HR', 'latitude': 45.7984, 'longitude': 15.9789}",Nextbike
+['Nextbike GmbH'],nextbike-glasgow,"{'city': 'Glasgow', 'country': 'GB', 'latitude': 55.8589, 'longitude': -4.25549}",Nextbike
+['Nextbike GmbH'],belfastbikes-belfast,"{'city': 'Belfast', 'country': 'GB', 'latitude': 54.5969, 'longitude': -5.92918}",BelfastBikes
+['Nextbike GmbH'],nextbike-stirling,"{'city': 'Stirling', 'country': 'GB', 'latitude': 56.1165, 'longitude': -3.9369}",Nextbike
+['Nextbike GmbH'],grad-sibenik-sibenik,"{'city': 'Šibenik', 'country': 'HR', 'latitude': 43.733, 'longitude': 15.8982}",Grad Šibenik
+['Nextbike GmbH'],lrm-lublin-lublin,"{'city': 'Lublin', 'country': 'PL', 'latitude': 51.2469, 'longitude': 22.5697}",LRM Lublin
+['Nextbike GmbH'],healthy-ride-pittsburgh-pittsburgh,"{'city': 'Pittsburgh', 'country': 'US', 'latitude': 40.4459, 'longitude': -79.9945}",Healthy Ride
+['Nextbike GmbH'],grm-grodzisk-grodzisk-mazowiecki,"{'city': 'Grodzisk Mazowiecki', 'country': 'PL', 'latitude': 52.113, 'longitude': 20.6265}",GRM Grodzisk
+['Nextbike GmbH'],nextbike-quickborn,"{'city': 'Quickborn', 'country': 'DE', 'latitude': 53.7333, 'longitude': 9.90272}",Nextbike
+['Nextbike GmbH'],vrn-ludwigshafen,"{'city': 'Ludwigshafen', 'country': 'DE', 'latitude': 49.4741, 'longitude': 8.43287}",VRN
+['Nextbike GmbH'],vrn-speyer,"{'city': 'Speyer', 'country': 'DE', 'latitude': 49.3126, 'longitude': 8.45295}",VRN
+['Nextbike GmbH'],nextbike-lviv,"{'city': 'Lviv', 'country': 'UA', 'latitude': 49.8402, 'longitude': 24.0182}",Nextbike
+['Nextbike GmbH'],nextbike-wurzburg,"{'city': 'Würzburg', 'country': 'DE', 'latitude': 49.8, 'longitude': 9.93333}",Nextbike
+['Nextbike GmbH'],nextbike-serfaus,"{'city': 'Serfaus', 'country': 'AT', 'latitude': 47.0387, 'longitude': 10.6048}",Nextbike
+['Nextbike GmbH'],nextbike-malta,"{'city': 'Malta', 'country': 'MT', 'latitude': 35.9192, 'longitude': 14.4889}",Nextbike
+['Nextbike GmbH'],grad-karlovac-karlovac,"{'city': 'Karlovac', 'country': 'HR', 'latitude': 45.4905, 'longitude': 15.5503}",Grad Karlovac
+['Nextbike GmbH'],grad-slavonski-brod-slavonski-brod,"{'city': 'Slavonski Brod', 'country': 'HR', 'latitude': 45.1656, 'longitude': 18.0183}",Grad Slavonski Brod
+['Nextbike GmbH'],santander-cycles-mk-milton-keynes,"{'city': 'Milton Keynes', 'country': 'GB', 'latitude': 52.0406, 'longitude': -0.759417}",Santander Cycles MK
+['Nextbike GmbH'],nextbike-hergiswil,"{'city': 'Hergiswil', 'country': 'CH', 'latitude': 46.9905, 'longitude': 8.30829}",Nextbike
+['Nextbike GmbH'],grad-makarska-makarska,"{'city': 'Makarska', 'country': 'HR', 'latitude': 43.2992, 'longitude': 17.0184}",Grad Makarska
+['Nextbike GmbH'],opcina-brinje-brinje,"{'city': 'Brinje', 'country': 'HR', 'latitude': 44.9977, 'longitude': 15.1258}",Općina Brinje
+['Nextbike GmbH'],grad-zadar-zadar,"{'city': 'Zadar', 'country': 'HR', 'latitude': 44.0058, 'longitude': 15.2183}",Grad Zadar
+['Nextbike GmbH'],vrn-bensheim,"{'city': 'Bensheim', 'country': 'DE', 'latitude': 49.6803, 'longitude': 8.6189}",VRN
+['Nextbike GmbH'],grad-ivanic-grad-ivanic-grad,"{'city': 'Ivanic Grad', 'country': 'HR', 'latitude': 45.7062, 'longitude': 16.3919}",Grad Ivanić-Grad
+['Nextbike GmbH'],bike-s-srm-szczecin,"{'city': 'Szczecin', 'country': 'PL', 'latitude': 53.4301, 'longitude': 14.5498}",Bike_S SRM
+['Nextbike GmbH'],nextbike-sarajevo,"{'city': 'Sarajevo', 'country': 'BA', 'latitude': 43.85, 'longitude': 18.39}",Nextbike
+['Nextbike GmbH'],co-bikes-exeter,"{'city': 'Exeter', 'country': 'GB', 'latitude': 50.7272, 'longitude': -3.53605}",Co-bikes
+['Nextbike GmbH'],nextbike-auckland-waterfront,"{'city': 'Auckland Waterfront', 'country': 'NZ', 'latitude': -36.841, 'longitude': 174.763}",Nextbike
+['Nextbike GmbH'],nextbike-berlin,"{'city': 'Berlin', 'country': 'DE', 'latitude': 52.5087, 'longitude': 13.3563}",Nextbike
+['Nextbike GmbH'],veturilo-stacje-sponsorskie-nextbike-veturilo,"{'city': 'Warszawa', 'country': 'PL', 'latitude': 52.2265, 'longitude': 21.0127}",Stacje Sponsorskie Nextbike Veturilo
+['Nextbike GmbH'],bike4all-byblos,"{'city': 'Byblos', 'country': 'LB', 'latitude': 34.1236, 'longitude': 35.6511}",bike4all
+['Nextbike GmbH'],chartered-bike-bhopal-bhopal,"{'city': 'Bhopal', 'country': 'IN', 'latitude': 23.2467, 'longitude': 77.411}",Chartered Bike
+['Nextbike GmbH'],wk-bike-bremen-bremen,"{'city': 'Bremen', 'country': 'DE', 'latitude': 53.0781, 'longitude': 8.80132}",WK-Bike
+['Nextbike GmbH'],vrn-worms,"{'city': 'Worms', 'country': 'DE', 'latitude': 49.6394, 'longitude': 8.34618}",VRN
+['Nextbike GmbH'],nextbike-stans,"{'city': 'Stans', 'country': 'CH', 'latitude': 46.9593, 'longitude': 8.36836}",Nextbike
+['Nextbike GmbH'],nextbike-stansstad,"{'city': 'Stansstad', 'country': 'CH', 'latitude': 46.9801, 'longitude': 8.34098}",Nextbike
+['Nextbike GmbH'],nextbike-horw,"{'city': 'Horw', 'country': 'CH', 'latitude': 47.0188, 'longitude': 8.30828}",Nextbike
+['Nextbike GmbH'],vrn-burstadt,"{'city': 'Bürstadt', 'country': 'DE', 'latitude': 49.6461, 'longitude': 8.44917}",VRN
+['Nextbike GmbH'],prm-stacje-sponsorskie-nextbike-prm,"{'city': 'Poznań', 'country': 'PL', 'latitude': 52.4077, 'longitude': 16.9323}",Stacje Sponsorskie Nextbike PRM
+['Nextbike GmbH'],nextbike-gross-enzersdorf,"{'city': 'Groß Enzersdorf', 'country': 'AT', 'latitude': 48.1986, 'longitude': 16.5496}",Nextbike
+['Nextbike GmbH'],nextbike-klagenfurt,"{'city': 'Klagenfurt', 'country': 'AT', 'latitude': 46.6335, 'longitude': 14.3085}",Nextbike
+['Nextbike GmbH'],vrn-kaiserslautern,"{'city': 'Kaiserslautern', 'country': 'DE', 'latitude': 49.4413, 'longitude': 7.75566}",VRN
+['Nextbike GmbH'],sitycleta-las-palmas-las-palmas-de-gran-canaria,"{'city': 'Las Palmas de Gran Canaria', 'country': 'ES', 'latitude': 28.1236, 'longitude': -15.4366}",Sitycleta
+['Nextbike GmbH'],grad-velika-gorica-velika-gorica,"{'city': 'Velika Gorica', 'country': 'HR', 'latitude': 45.7161, 'longitude': 16.0683}",Grad Velika Gorica
+['Nextbike GmbH'],grad-sisak-sisak,"{'city': 'Sisak', 'country': 'HR', 'latitude': 45.4875, 'longitude': 16.3753}",Grad Sisak
+['Nextbike GmbH'],kolobrzeski-rower-miejski-kolobrzeg,"{'city': 'Kołobrzeg', 'country': 'PL', 'latitude': 54.1762, 'longitude': 15.5761}",Kołobrzeski Rower Miejski
+['Nextbike GmbH'],grad-metkovic-metkovic,"{'city': 'Metković', 'country': 'HR', 'latitude': 43.0654, 'longitude': 17.642}",Grad Metković
+['Nextbike GmbH'],jastrebarsko-jastrebarsko,"{'city': 'Jastrebarsko', 'country': 'HR', 'latitude': 45.6692, 'longitude': 15.6541}",Nextbike
+['Nextbike GmbH'],grad-drnis-drnis,"{'city': 'Drniš', 'country': 'HR', 'latitude': 43.8425, 'longitude': 16.1197}",Nextbike
+['Nextbike GmbH'],nextbike-tuzla,"{'city': 'Tuzla', 'country': 'BA', 'latitude': 44.5392, 'longitude': 18.675}",Nextbike
+['Nextbike GmbH'],arriva-nitra,"{'city': 'Nitra', 'country': 'SK', 'latitude': 48.3088, 'longitude': 18.0783}",Arriva
+['Nextbike GmbH'],nextbike-marburg,"{'city': 'Marburg', 'country': 'DE', 'latitude': 50.8019, 'longitude': 8.76444}",Nextbike
+['Nextbike GmbH'],bubi,"{'city': 'Budapest', 'country': 'HU', 'latitude': 47.497912, 'longitude': 19.040235}",MOL Bubi
+['Nextbike GmbH'],nextbike-russelsheim-am-main,"{'city': 'Rüsselsheim am Main', 'country': 'DE', 'latitude': 49.9881, 'longitude': 8.42142}",Nextbike
+['Nextbike GmbH'],rower-miejski-szamotuly-rms-szamotuly,"{'city': 'Szamotuły', 'country': 'PL', 'latitude': 52.6112, 'longitude': 16.5819}",Rower Miejski Szamotuły
+['Nextbike GmbH'],nextbike-dordrecht,"{'city': 'Dordrecht', 'country': 'NL', 'latitude': 51.7833, 'longitude': 4.69391}",Nextbike
+['Nextbike GmbH'],vrn-heppenheim,"{'city': 'Heppenheim', 'country': 'DE', 'latitude': 49.6431, 'longitude': 8.63889}",VRN
+['Nextbike GmbH'],piaseczynski-rower-miejski-piaseczno,"{'city': 'Piaseczno', 'country': 'PL', 'latitude': 52.0733, 'longitude': 21.0269}",Piaseczyński Rower Miejski
+['Nextbike GmbH'],nextbike-kassel,"{'city': 'Kassel', 'country': 'DE', 'latitude': 51.3127, 'longitude': 9.47975}",Nextbike
+['Nextbike GmbH'],nextbike-sarnen,"{'city': 'Sarnen', 'country': 'CH', 'latitude': 46.8963, 'longitude': 8.24614}",Nextbike
+['Nextbike GmbH'],nextbike-wolfenschiessen,"{'city': 'Wolfenschiessen', 'country': 'CH', 'latitude': 46.9079, 'longitude': 8.39767}",Nextbike
+['Nextbike GmbH'],nextbike-oberdorf,"{'city': 'Oberdorf', 'country': 'CH', 'latitude': 46.9563, 'longitude': 8.3884}",Nextbike
+['Nextbike GmbH'],nextbike-giessen,"{'city': 'Gießen', 'country': 'DE', 'latitude': 50.5943, 'longitude': 8.68097}",Nextbike
+['Nextbike GmbH'],vrn-weinheim,"{'city': 'Weinheim', 'country': 'DE', 'latitude': 49.545, 'longitude': 8.66027}",VRN
+['Nextbike GmbH'],nextbike-cardiff,"{'city': 'Cardiff', 'country': 'GB', 'latitude': 51.4848, 'longitude': -3.19062}",Nextbike
+['Nextbike GmbH'],vrn-hockenheim,"{'city': 'Hockenheim', 'country': 'DE', 'latitude': 49.3227, 'longitude': 8.54258}",VRN
+['Nextbike GmbH'],vrn-schwetzingen,"{'city': 'Schwetzingen', 'country': 'DE', 'latitude': 49.3863, 'longitude': 8.5756}",VRN
+['Nextbike GmbH'],nextbike-ennetmoos,"{'city': 'Ennetmoos', 'country': 'CH', 'latitude': 46.9573, 'longitude': 8.3377}",Nextbike
+['Nextbike GmbH'],vrn-eppelheim,"{'city': 'Eppelheim', 'country': 'DE', 'latitude': 49.4025, 'longitude': 8.6331}",VRN
+['Nextbike GmbH'],nextbike-university-of-surrey,"{'city': 'Surrey', 'country': 'GB', 'latitude': 51.2422, 'longitude': -0.590594}",Nextbike
+['Nextbike GmbH'],santander-cycles-swansea-swansea-university,"{'city': 'Swansea', 'country': 'GB', 'latitude': 51.6106, 'longitude': -3.9764}",Santander Cycles
+['Nextbike GmbH'],nextbike-erfurt,"{'city': 'Erfurt', 'country': 'DE', 'latitude': 50.9785, 'longitude': 11.0334}",Nextbike
+['Nextbike GmbH'],bl-bike-banja-luka,"{'city': 'Banja Luka', 'country': 'BA', 'latitude': 44.775, 'longitude': 17.1994}",BL bike
+['Nextbike GmbH'],lahr-pedelecs-lahr,"{'city': 'Lahr', 'country': 'DE', 'latitude': 48.3396, 'longitude': 7.87376}",Nextbike
+['Nextbike GmbH'],berlin-buch-campus-berlin-buch,"{'city': 'Berlin', 'country': 'DE', 'latitude': 52.6364, 'longitude': 13.5029}",Berlin-Buch Campus
+['Nextbike GmbH'],lviv-odessa,"{'city': 'Odessa', 'country': 'UA', 'latitude': 46.463, 'longitude': 30.7042}",Nextbike
+['Nextbike GmbH'],zielonogorski-rower-miejski-zielona-gora,"{'city': 'Zielona Góra', 'country': 'PL', 'latitude': 51.9381, 'longitude': 15.5048}",Zielonogórski Rower Miejski
+['Nextbike GmbH'],santander-monchengladbach,"{'city': 'Mönchengladbach', 'country': 'DE', 'latitude': 51.1817, 'longitude': 6.43578}",Santander Mönchengladbach
+['Nextbike GmbH'],nomagobikes-celje,"{'city': 'Celje', 'country': 'SI', 'latitude': 46.2388, 'longitude': 15.2693}",NomagoBikes
+['Nextbike GmbH'],bilbon-bizi,"{'city': 'Bilbao', 'country': 'ES', 'latitude': 43.2752, 'longitude': -2.93528}",BilbonBizi
+['Nextbike GmbH'],nomagobikes-lasko,"{'city': 'Laško', 'country': 'SI', 'latitude': 46.1458, 'longitude': 15.2312}",NomagoBikes
+['Nextbike GmbH'],nextbike-lippstadt,"{'city': 'Lippstadt', 'country': 'DE', 'latitude': 51.6755, 'longitude': 8.34394}",Nextbike
+['Nextbike GmbH'],bikekia-zilina,"{'city': 'Žilina', 'country': 'SK', 'latitude': 49.2217, 'longitude': 18.7572}",BikeKia
+['Nextbike GmbH'],koninski-rower-miejski-konin,"{'city': 'Konin', 'country': 'PL', 'latitude': 52.2284, 'longitude': 18.2553}",Koniński Rower Miejski
+['Nextbike GmbH'],nextbike-vinnytsia,"{'city': 'Vinnytsia', 'country': 'UA', 'latitude': 49.2328, 'longitude': 28.4625}",Nextbike
+['Nextbike GmbH'],nextbike-bonn,"{'city': 'Bonn', 'country': 'DE', 'latitude': 50.7367, 'longitude': 7.09541}",Nextbike
+['Nextbike GmbH'],tarnowski-rower-miejski-tarnow,"{'city': 'Tarnów', 'country': 'PL', 'latitude': 50.0113, 'longitude': 20.9728}",Tarnowski Rower Miejski
+['Nextbike GmbH'],kolo-marek-marki,"{'city': 'Marki', 'country': 'PL', 'latitude': 52.3256, 'longitude': 21.1089}",Koło Marek
+['Nextbike GmbH'],rowerowe-lodzkie-rl-koluszki,"{'city': 'Koluszki', 'country': 'PL', 'latitude': 51.7401, 'longitude': 19.835}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-lask,"{'city': 'Łask', 'country': 'PL', 'latitude': 51.5893, 'longitude': 19.142}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-lowicz,"{'city': 'Łowicz', 'country': 'PL', 'latitude': 52.1057, 'longitude': 19.9381}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-pabianice,"{'city': 'Pabianice', 'country': 'PL', 'latitude': 51.6651, 'longitude': 19.3548}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-sieradz,"{'city': 'Sieradz', 'country': 'PL', 'latitude': 51.5902, 'longitude': 18.7382}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-skierniewice,"{'city': 'Skierniewice', 'country': 'PL', 'latitude': 51.9539, 'longitude': 20.1469}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-zdunska-wola,"{'city': 'Zduńska Wola', 'country': 'PL', 'latitude': 51.6011, 'longitude': 18.938}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-zgierz,"{'city': 'Zgierz', 'country': 'PL', 'latitude': 51.8551, 'longitude': 19.4068}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-kutno,"{'city': 'Kutno', 'country': 'PL', 'latitude': 52.2317, 'longitude': 19.3564}",Rowerowe Łódzkie
+['Nextbike GmbH'],rowerowe-lodzkie-rl-lodz-rl,"{'city': 'Łódź', 'country': 'PL', 'latitude': 51.7674, 'longitude': 19.4575}",Rowerowe Łódzkie
+['Nextbike GmbH'],frelo-freiburg,"{'city': 'Freiburg', 'country': 'DE', 'latitude': 47.9958, 'longitude': 7.84453}",Frelo
+['Comunicare S.r.l.'],bicincitta-trieste,"{'city': 'Trieste', 'country': 'IT', 'latitude': 45.6495, 'longitude': 13.7768}",BiTS
+['Nextbike GmbH'],mobibike-dresden,"{'city': 'Dresden', 'country': 'DE', 'latitude': 51.0535, 'longitude': 13.7387}",MOBIbike
+['ЗАО «СитиБайк»'],velobike-murmansk,"{'city': 'Murmansk', 'country': 'RU', 'latitude': 68.968, 'longitude': 33.074}",Velobike
+['ЗАО «СитиБайк»'],velobike-nizhniy-novgorod,"{'city': 'Nizhniy Novgorod', 'country': 'RU', 'latitude': 56.194, 'longitude': 44.003}",Velobike
+['Nextbike GmbH'],nextbike-ivano-frankivsk,"{'city': 'Ivano Frankivsk', 'country': 'UA', 'latitude': 48.9281, 'longitude': 24.7103}",Nextbike
+"['Velobike.kz, LLP', 'Smoove']",almatybike,"{'city': 'Almaty', 'country': 'KZ', 'latitude': 43.239101, 'longitude': 76.9268076}",Almatybike
+"['Velobike.kz, LLP', 'Smoove']",shymkentbike,"{'city': 'Shymkent', 'country': 'KZ', 'latitude': 42.3184, 'longitude': 69.5978}",Shymkentbike
+['Motivate LLC'],bay-wheels,"{'city': 'San Francisco Bay Area, CA', 'country': 'US', 'latitude': 37.7141454, 'longitude': -122.25}",Bay Wheels
+['Smoove'],veloceo,"{'city': 'Vannes', 'country': 'FR', 'latitude': 47.6559, 'longitude': -2.7603}",Vélocéo
+['PBSC Urban Solutions'],monabike,"{'city': 'Monaco', 'country': 'MC', 'latitude': 43.733333, 'longitude': 7.416667}",MonaBike
+['Ecovelo'],tlp-velo,"{'city': 'Tarbes, Lourdes', 'country': 'FR', 'latitude': 43.23, 'longitude': 0.07}",Tarbes et Lourdes vls
+['Ecovelo'],zebullo,"{'city': 'Reims', 'country': 'FR', 'latitude': 49.2628, 'longitude': 4.0347}",ZébullO
+['Ecovelo'],velectin,"{'city': 'Calais', 'country': 'FR', 'latitude': 50.948056, 'longitude': 1.856389}",Velect’in
+['Ecovelo'],rubis-velo,"{'city': 'Bourg-en-Bresse', 'country': 'FR', 'latitude': 46.2056, 'longitude': 5.2289}",Rubis'Vélo
+['Ecovelo'],tanlib,"{'city': 'Niort', 'country': 'FR', 'latitude': 46.3258, 'longitude': -0.4606}",Vélo tanlib
+['Ecovelo'],marseillan,"{'city': 'Marseillan', 'country': 'FR', 'latitude': 43.3572, 'longitude': 3.5283}",Marseillan vélo libre-service
+['Ecovelo'],via-velo,"{'city': ""Val d'Ille-Aubigné"", 'country': 'FR', 'latitude': 48.2181, 'longitude': -1.6947}",VIA Vélo
+['Ecovelo'],velyceo,"{'city': 'Saint-Nazaire', 'country': 'FR', 'latitude': 47.2806, 'longitude': -2.2086}",vélYcéo
+['Ecovelo'],velocite-laon,"{'city': 'Laon', 'country': 'FR', 'latitude': 49.5639, 'longitude': 3.6244}",Vélo'Cité
+['Ecovelo'],velo-baulois,"{'city': 'La Baule-Escoublac', 'country': 'FR', 'latitude': 47.2867, 'longitude': -2.3908}",Le Vélo Baulois
+['Ecovelo'],le-marcel,"{'city': 'Troyes', 'country': 'FR', 'latitude': 48.2997, 'longitude': 4.0792}",Le Marcel
+['Ecovelo'],tempo-velo,"{'city': 'Agen', 'country': 'FR', 'latitude': 44.2049, 'longitude': 0.6212}",Tempo Vélo
+['Ecovelo'],semo,"{'city': ""Communauté d'agglomération Seine-Eure"", 'country': 'FR', 'latitude': 49.22, 'longitude': 1.17}",semo
+['Ecovelo'],cyclovis,"{'city': 'Soissons', 'country': 'FR', 'latitude': 49.3817, 'longitude': 3.3236}",Cyclovis
+['Ecovelo'],chantrerie-captainbike,"{'city': 'La Chantrerie, Nantes', 'country': 'FR', 'latitude': 47.2868203, 'longitude': -1.5210917}",Chantrerie VLS (Captain Bike)
+['Ecovelo'],saclay-captainbike,"{'city': 'Paris-Saclay', 'country': 'FR', 'latitude': 48.7098082, 'longitude': 2.211366}",Saclay VLS (Captain Bike)
+['CIGL ESCH'],velok,"{'city': 'Esch-sur-alzette', 'country': 'LU', 'latitude': 49.5024, 'longitude': 5.9722}",Vël'Ok
+['Nextbike GmbH'],wienmobil-rad,"{'city': 'Wien', 'country': 'AT', 'latitude': 48.2081743, 'longitude': 16.3738189}",WienMobil Rad
+,bikeverona,"{'city': 'Verona', 'country': 'IT', 'latitude': 45.438611, 'longitude': 10.992778}",Verona Bike
+['Nextbike GmbH'],sprottenflotte-kiel,"{'city': 'Kiel', 'country': 'DE', 'latitude': 54.2837, 'longitude': 10.13213}",Sprottenflotte
+"['TaM', 'Smoove']",velomagg,"{'city': 'Montpellier', 'country': 'FR', 'latitude': 43.6119, 'longitude': 3.8772}",Vélomagg
+"['Bcycle, LLC', 'RTC Southern Nevada, Inc']",rtc-bike-share,"{'city': 'Las Vegas, NV', 'country': 'US', 'latitude': 36.1438, 'longitude': -115.15682}",RTC Bike Share
+"['Bcycle, LLC', 'Embark, Inc']",spokies,"{'city': 'Oklahoma, OK', 'country': 'US', 'latitude': 35.46436, 'longitude': -97.50888}",Spokies BCycle
+['Leonbici Nextbike Gmbh Y Autobuses Urbanos De Leon S.a. Ute'],alsa-nextbike-leon,"{'city': 'León', 'country': 'ES', 'latitude': 42.5987263, 'longitude': -5.5670959}",Alsa nextbike León
+['Strasbourg Mobilités'],velhop,"{'city': 'Strasbourg', 'country': 'FR', 'latitude': 48.583611, 'longitude': 7.748056}",Vélhop
+,optymo,"{'city': 'Belfort', 'country': 'FR', 'latitude': 47.641111, 'longitude': 6.849444}",Optymo
+['Nextbike GmbH'],biker-bialystok,"{'city': 'Białystok', 'country': 'PL', 'latitude': 53.1262, 'longitude': 23.1427}",BIKER Białystok Poland
+['Nextbike GmbH'],nextbike-prostejov,"{'city': 'Prostejov', 'country': 'CZ', 'latitude': 49.4722, 'longitude': 17.1055}",nextbike Prostejov
+['Nextbike GmbH'],bike-katowice,"{'city': 'Katowice', 'country': 'PL', 'latitude': 50.2594, 'longitude': 19.0215}",Katowice Bike Poland
+['Nextbike GmbH'],nextbike-focsani,"{'city': 'Focșani', 'country': 'RO', 'latitude': 45.6947, 'longitude': 27.1851}",nextbike Romania
+['Nextbike GmbH'],grad-vukovar,"{'city': 'Vukovar', 'country': 'HR', 'latitude': 45.3575, 'longitude': 18.9895}",Grad Vukovar (Croatia)
+['Nextbike GmbH'],system-rowerow-miejskich-w-pszczynie-pszczyna,"{'city': 'Pszczyna', 'country': 'PL', 'latitude': 49.9757, 'longitude': 18.9463}",System Rowerów Miejskich w Pszczynie Poland
+['Nextbike GmbH'],tyski-rower-miejski-tychy,"{'city': 'Tychy', 'country': 'PL', 'latitude': 50.1124, 'longitude': 18.9972}",Tyski Rower Miejski Poland
+['Nextbike GmbH'],czestochowski-rower-miejski-czestochowa,"{'city': 'Częstochowa', 'country': 'PL', 'latitude': 50.812, 'longitude': 19.1375}",Częstochowski Rower Miejski Poland
+['Nextbike GmbH'],pruszkowski-rower-miejski-pruszkow,"{'city': 'Pruszków', 'country': 'PL', 'latitude': 52.1622, 'longitude': 20.8062}",Pruszkowski Rower Miejski Poland
+['Nextbike GmbH'],ok-bike-kedzierzyn-kozle,"{'city': 'Kędzierzyn-Koźle', 'country': 'PL', 'latitude': 50.3392, 'longitude': 18.2352}",OK Bike Poland
+['Nextbike GmbH'],grad-zapresic,"{'city': 'Zaprešić', 'country': 'HR', 'latitude': 45.8622, 'longitude': 15.8049}",Grad Zaprešić (Croatia)
+['Nextbike GmbH'],porec-bike-share-porec,"{'city': 'Poreč', 'country': 'HR', 'latitude': 45.2292, 'longitude': 13.6035}",Porec bike share (Croatia)
+['Nextbike GmbH'],kaliski-rower-miejski-kalisz,"{'city': 'Kalisz', 'country': 'PL', 'latitude': 51.7525, 'longitude': 18.0341}",Kaliski Rower Miejski Poland
+['Nextbike GmbH'],rower-miejski-w-ostrowie-wielkopolskim-ostrow-wielkopolski,"{'city': 'Ostrów Wielkopolski', 'country': 'PL', 'latitude': 51.65, 'longitude': 17.8253}",Rower Miejski w Ostrowie Wielkopolskim Poland
+['Nextbike GmbH'],santander-brunel,"{'city': 'Brunel University', 'country': 'GB', 'latitude': 51.5463, 'longitude': -0.48048}",Santander Cycles - Brunel
+['Nextbike GmbH'],koszalinski-rower-miejski-koszalin,"{'city': 'Koszalin', 'country': 'PL', 'latitude': 54.2026, 'longitude': 16.1678}",Koszaliński Rower Miejski Poland
+['Nextbike GmbH'],ki-rower-miejski-sosnowiec,"{'city': 'Sosnowiec', 'country': 'PL', 'latitude': 50.278, 'longitude': 19.1345}",Sosnowiecki Rower Miejski Poland
+['Nextbike GmbH'],pobiedziski-rower-gminny-pobiedziska,"{'city': 'Pobiedziska', 'country': 'PL', 'latitude': 52.4765, 'longitude': 17.2866}",Pobiedziski Rower Gminny Poland
+['Nextbike GmbH'],siemianowicki-rower-miejski-siemianowice-slaskie,"{'city': 'Siemianowice Śląskie', 'country': 'PL', 'latitude': 50.3031, 'longitude': 19.0222}",Siemianowicki Rower Miejski Poland
+['Nextbike GmbH'],piotrkowski-rower-miejski-piotrkow-trybunalski,"{'city': 'Piotrków Trybunalski', 'country': 'PL', 'latitude': 51.3975, 'longitude': 19.6779}",Piotrkowski Rower Miejski Poland
+['Nextbike GmbH'],i-rower-miejski-prm-plock,"{'city': 'Płock', 'country': 'PL', 'latitude': 52.5445, 'longitude': 19.7017}",Płocki Rower Miejski (PRM) Poland
+['Nextbike GmbH'],plocki-rower-miejski-prm-orlen-plock,"{'city': 'Orlen Płock', 'country': 'PL', 'latitude': 52.5466, 'longitude': 19.7047}",Płocki Rower Miejski (PRM) Poland
+['Nextbike GmbH'],i-rower-miejski-otwock,"{'city': 'Otwock', 'country': 'PL', 'latitude': 52.1034, 'longitude': 21.2692}",Otwocki Rower Miejski Poland
+['Nextbike GmbH'],ciechanowski-rower-miejski-ciechanow,"{'city': 'Ciechanów', 'country': 'PL', 'latitude': 52.8763, 'longitude': 20.6102}",Ciechanowski Rower Miejski Poland
+['Nextbike GmbH'],zyrardowski-rower-miejski-zyrardow,"{'city': 'Żyrardów', 'country': 'PL', 'latitude': 52.0503, 'longitude': 20.4464}",Żyrardowski Rower Miejski Poland
+['Nextbike GmbH'],sap-walldorf,"{'city': 'Walldorf', 'country': 'DE', 'latitude': 49.2945, 'longitude': 8.62324}",SAP Walldorf
+['Nextbike GmbH'],opcina-dugopolje,"{'city': 'Dugopolje', 'country': 'HR', 'latitude': 43.5872, 'longitude': 16.5879}",Općina Dugopolje (Croatia)
+['Nextbike GmbH'],opcina-pitomaca,"{'city': 'Pitomača', 'country': 'HR', 'latitude': 45.9077, 'longitude': 17.2622}",Općina Pitomača (Croatia)
+['Nextbike GmbH'],nomago-ljubljana,"{'city': 'Ljubljana', 'country': 'SI', 'latitude': 46.0577, 'longitude': 14.5013}",Nomago Bikes - LJUBLJANA
+['Nextbike GmbH'],system-roweru-gminnego-pielgrzymka,"{'city': 'Pielgrzymka', 'country': 'PL', 'latitude': 51.1185, 'longitude': 15.8153}",System Roweru Gminnego Poland
+['Nextbike GmbH'],rvk,"{'city': 'RVK e-Bike', 'country': 'DE', 'latitude': 50.7069, 'longitude': 6.87607}",RVK
+['Nextbike GmbH'],partnerzy-nextbike-polska-wolt,"{'city': 'Wolt', 'country': 'PL', 'latitude': 52.2984, 'longitude': 21.0498}",Partnerzy Nextbike Polska
+['Nextbike GmbH'],wupsi,"{'city': 'Leverkusen', 'country': 'DE', 'latitude': 51.0732, 'longitude': 7.00814}",wupsiRad Leverkusen
+['Nextbike GmbH'],lovesharing-canary-islands-gran-canaria,"{'city': 'Gran Canaria', 'country': 'ES', 'latitude': 27.8154, 'longitude': -15.5182}",Lovesharing (Canary Islands)
+['Nextbike GmbH'],lovesharing-canary-islands-lanzarote,"{'city': 'Lanzarote', 'country': 'ES', 'latitude': 29.0491, 'longitude': -13.5729}",Lovesharing (Canary Islands)
+['Nextbike GmbH'],lovesharing-canary-islands-fuerteventura,"{'city': 'Fuerteventura', 'country': 'ES', 'latitude': 28.3584, 'longitude': -14.064}",Lovesharing (Canary Islands)
+['VAG Verkehrs-Aktiengesellschaft'],vagrad,"{'city': 'Nürnberg', 'country': 'DE', 'latitude': 49.4487, 'longitude': 11.0794}",VAG_Rad
+['Nextbike GmbH'],grad-split,"{'city': 'Split', 'country': 'HR', 'latitude': 43.5162, 'longitude': 16.4637}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-solin,"{'city': 'Solin', 'country': 'HR', 'latitude': 43.5441, 'longitude': 16.4833}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-opcina-klis,"{'city': 'Općina Klis', 'country': 'HR', 'latitude': 43.5605, 'longitude': 16.5269}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-opcina-hrvace,"{'city': 'Općina Hrvace', 'country': 'HR', 'latitude': 43.7553, 'longitude': 16.6197}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-opcina-otok-dalmatinski,"{'city': 'Općina Otok Dalmatinski', 'country': 'HR', 'latitude': 43.6889, 'longitude': 16.7361}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-sinj,"{'city': 'Sinj', 'country': 'HR', 'latitude': 43.7031, 'longitude': 16.6364}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-hvar,"{'city': 'Hvar', 'country': 'HR', 'latitude': 43.1882, 'longitude': 16.6295}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-podstrana,"{'city': 'Podstrana', 'country': 'HR', 'latitude': 43.4934, 'longitude': 16.5598}",Grad Split (Croatia)
+['Nextbike GmbH'],grad-split-trogir,"{'city': 'Trogir', 'country': 'HR', 'latitude': 43.5234, 'longitude': 16.2476}",Grad Split (Croatia)
+['Nextbike GmbH'],nextbike-ostrava,"{'city': 'Ostrava', 'country': 'CZ', 'latitude': 49.8344, 'longitude': 18.2823}",nextbike Ostrava
+['Nextbike GmbH'],nextbike-ostrava-hlucin,"{'city': 'Hlučín', 'country': 'CZ', 'latitude': 49.898, 'longitude': 18.1923}",nextbike Ostrava
+['Nextbike GmbH'],nextbike-ostrava-vresina,"{'city': 'Vřesina', 'country': 'CZ', 'latitude': 49.825, 'longitude': 18.1206}",nextbike Ostrava
+['Nextbike GmbH'],ski-rower-miejski-lubon,"{'city': 'Luboń', 'country': 'PL', 'latitude': 52.3461, 'longitude': 16.8765}",Luboński Rower Miejski Poland
+['Nextbike GmbH'],ibizi-ibiza-city,"{'city': 'Ibiza-City', 'country': 'ES', 'latitude': 38.9066, 'longitude': 1.42046}",ibizi
+['Nextbike GmbH'],sprintrad,"{'city': 'Hannover', 'country': 'DE', 'latitude': 52.3721, 'longitude': 9.73569}",sprintRAD
+['Nextbike GmbH'],komornicki-system-rowerowy-komorniki,"{'city': 'Komorniki', 'country': 'PL', 'latitude': 52.3347, 'longitude': 16.8094}",Komornicki System Rowerowy Poland
+['Nextbike GmbH'],nextbike-havirov,"{'city': 'Havířov', 'country': 'CZ', 'latitude': 49.7799, 'longitude': 18.4328}",nextbike Havířov
+['Nextbike GmbH'],nextbike-berounsko,"{'city': 'Berounsko', 'country': 'CZ', 'latitude': 49.9616, 'longitude': 14.064}",nextbike Berounsko
+['Nextbike GmbH'],ready4green-graben,"{'city': 'Graben', 'country': 'DE', 'latitude': 51.1242, 'longitude': 10.8984}",Graben - ready4green
+['Nextbike GmbH'],oleski-rower-miejski-olesno,"{'city': 'Olesno', 'country': 'PL', 'latitude': 50.8773, 'longitude': 18.4212}",Oleski Rower Miejski Poland
+['Nextbike GmbH'],styr-staell-goeteborg,"{'city': 'Göteborg', 'country': 'SE', 'latitude': 57.6902, 'longitude': 11.9881}","Styr & Ställ (Sweden, Göteborg)"
+['Nextbike GmbH'],nibelungen-bike-braunschweig,"{'city': 'Braunschweig', 'country': 'DE', 'latitude': 52.2597, 'longitude': 10.5307}",Nibelungen-Bike
+['Nextbike GmbH'],nextbike-brno,"{'city': 'Brno', 'country': 'CZ', 'latitude': 49.1911, 'longitude': 16.6148}",nextbike Brno
+['Nextbike GmbH'],nextbike-brno-kurim,"{'city': 'Kuřim', 'country': 'CZ', 'latitude': 49.2994, 'longitude': 16.5368}",nextbike Brno
+['Nextbike GmbH'],nextbike-praha,"{'city': 'Praha', 'country': 'CZ', 'latitude': 50.0592, 'longitude': 14.5761}",nextbike Praha
+['Nextbike GmbH'],nextbike-praha-ricany,"{'city': 'Říčany', 'country': 'CZ', 'latitude': 49.9976, 'longitude': 14.6685}",nextbike Praha
+['Nextbike GmbH'],nextbike-olomouc,"{'city': 'Olomouc', 'country': 'CZ', 'latitude': 49.5929, 'longitude': 17.2459}",nextbike Olomouc
+['Nextbike GmbH'],nextbike-kladno,"{'city': 'Kladno', 'country': 'CZ', 'latitude': 50.1435, 'longitude': 14.1082}",nextbike Kladno
+['Nextbike GmbH'],nextbike-opava,"{'city': 'Opava', 'country': 'CZ', 'latitude': 49.9289, 'longitude': 18.2634}",nextbike Opava
+['Nextbike GmbH'],nextbike-bielefeld,"{'city': 'Bielefeld', 'country': 'DE', 'latitude': 52.0257, 'longitude': 8.53286}",meinSiggi
+['Nextbike GmbH'],yoy-san-luis-potosi,"{'city': 'San Luis Potosi', 'country': 'MX', 'latitude': 22.438, 'longitude': -100.514}",YOY - San Luis Potosi
+['Nextbike GmbH'],yoy-san-luis-potosi-cancun,"{'city': 'Cancún', 'country': 'MX', 'latitude': 21.1675, 'longitude': -86.8498}",YOY - San Luis Potosi
+['Nextbike GmbH'],bergisches-e-bike,"{'city': 'Bergisches e-Bike', 'country': 'DE', 'latitude': 51.0192, 'longitude': 7.18025}",Bergisches e-Bike
+['Nextbike GmbH'],nextbike-pardubice,"{'city': 'Pardubice', 'country': 'CZ', 'latitude': 50.0343, 'longitude': 15.7812}",nextbike Pardubice
+['Nextbike GmbH'],nextbike-hradec-kralove,"{'city': 'Hradec Králové', 'country': 'CZ', 'latitude': 50.2079, 'longitude': 15.8334}",nextbike Hradec Králové
+['Nextbike GmbH'],nextbike-mladoboleslavsko-mlada-boleslav,"{'city': 'Mladá Boleslav', 'country': 'CZ', 'latitude': 50.4278, 'longitude': 14.8999}",nextbike Mladoboleslavsko
+['Nextbike GmbH'],nextbike-mladoboleslavsko-mnichovo-hradiste,"{'city': 'Mnichovo Hradiště', 'country': 'CZ', 'latitude': 50.5218, 'longitude': 14.9741}",nextbike Mladoboleslavsko
+['Nextbike GmbH'],oeynrad-bad-oeynhausen,"{'city': 'Bad Oeynhausen', 'country': 'DE', 'latitude': 52.2051, 'longitude': 8.80074}",Oeynrad
+['Nextbike GmbH'],rsvg-bike,"{'city': 'RSVG', 'country': 'DE', 'latitude': 50.7669, 'longitude': 7.37457}",RSVG-Bike
+['Nextbike GmbH'],citybikelinz,"{'city': 'Linz', 'country': 'AT', 'latitude': 48.3003, 'longitude': 14.2843}",city bike Linz
+['Nextbike GmbH'],velopark-drobeta,"{'city': 'Drobeta', 'country': 'RO', 'latitude': 44.6326, 'longitude': 22.6564}",Drobeta Velopark
+['Nextbike GmbH'],nomago-gorica,"{'city': 'Nova Gorica', 'country': 'SI', 'latitude': 45.9576, 'longitude': 13.6406}",Nomago Bikes - GO2GO
+['Nextbike GmbH'],saturn,"{'city': 'Saturn', 'country': 'RO', 'latitude': 43.82, 'longitude': 28.7445}",Saturn
+['Nextbike GmbH'],nextbike-frydek-mistek,"{'city': 'Frýdek-Místek', 'country': 'CZ', 'latitude': 49.6832, 'longitude': 18.3457}",nextbike Frýdek-Místek
+['Nextbike GmbH'],nextbike-uherske-hradiste,"{'city': 'Uherské Hradiště', 'country': 'CZ', 'latitude': 49.0678, 'longitude': 17.4665}",nextbike Uherské Hradiště
+['Nextbike GmbH'],nextbike-zlin,"{'city': 'Zlín', 'country': 'CZ', 'latitude': 49.238, 'longitude': 17.6788}",nextbike Zlín
+['Nextbike GmbH'],nextbike-krnov,"{'city': 'Krnov', 'country': 'CZ', 'latitude': 50.0703, 'longitude': 17.8837}",nextbike Krnov
+['Nextbike GmbH'],eifel,"{'city': 'Eifel e-Bike', 'country': 'DE', 'latitude': 50.5771, 'longitude': 6.64673}",Eifel e-Bike
+['Nextbike GmbH'],nextbike-rychnovsko,"{'city': 'Rychnovsko', 'country': 'CZ', 'latitude': 50.1668, 'longitude': 16.2828}",nextbike Rychnovsko
+['Nextbike GmbH'],nextbike-pisek,"{'city': 'Písek', 'country': 'CZ', 'latitude': 49.3051, 'longitude': 14.1463}",nextbike Písek
+['Nextbike GmbH'],nextbike-jihlava,"{'city': 'Jihlava', 'country': 'CZ', 'latitude': 49.4078, 'longitude': 15.6061}",nextbike Jihlava
+['Nextbike GmbH'],nomago-zanaprej,"{'city': 'Zagorje ob Savi', 'country': 'SI', 'latitude': 46.1392, 'longitude': 14.9785}",Nomago Bikes - ZANAPREJ
+['Nextbike GmbH'],rower-powiatowy-sokolow-podlaski,"{'city': 'Sokołów Podlaski', 'country': 'PL', 'latitude': 52.4082, 'longitude': 22.2525}",Rower Powiatowy Sokołów Podlaski
+['Nextbike GmbH'],nextbike-bergamo,"{'city': 'Bergamo', 'country': 'IT', 'latitude': 45.6986, 'longitude': 9.67567}",nextbike Bergamo
+['Nextbike GmbH'],emobi-osijek,"{'city': 'Osijek', 'country': 'HR', 'latitude': 45.554, 'longitude': 18.6943}",eMobi (Croatia)
+['Nextbike GmbH'],arval-scandicci,"{'city': 'Scandicci', 'country': 'IT', 'latitude': 43.7701, 'longitude': 11.1592}",ARVAL
+['Bremer Tageszeitungen AG'],nextbike-oldenburg,"{'city': 'Oldenburg', 'country': 'DE', 'latitude': 53.1448, 'longitude': 8.22485}",OLi-Bike
+['Nextbike GmbH'],nextbike-urdaibai,"{'city': 'Urdaibai', 'country': 'ES', 'latitude': 43.395, 'longitude': -2.68815}",BBK Klimabizi
+['Nextbike GmbH'],mvrad-hq,"{'city': 'MV-Rad', 'country': 'DE', 'latitude': 53.6707, 'longitude': 12.4255}",MV-Rad
+['Nextbike GmbH'],mvrad-anklam,"{'city': 'Anklam', 'country': 'DE', 'latitude': 53.8614, 'longitude': 13.6907}",MV-Rad
+['Nextbike GmbH'],greifswald,"{'city': 'Greifswald (StadtRad)', 'country': 'DE', 'latitude': 54.0961, 'longitude': 13.3787}",StadtRad Greifswald
+['Nextbike GmbH'],nextbike-dvur-kralove,"{'city': 'Dvůr Králové', 'country': 'CZ', 'latitude': 50.4278, 'longitude': 15.8162}",nextbike Dvůr Králové
+['Nextbike GmbH'],vvtregiorad-kufstein,"{'city': 'Kufstein', 'country': 'AT', 'latitude': 47.583, 'longitude': 12.1692}",VVT REGIORAD Tirol
+['Nextbike GmbH'],vvtregiorad-ellmau,"{'city': 'Ellmau', 'country': 'AT', 'latitude': 47.5134, 'longitude': 12.3025}",VVT REGIORAD Tirol
+['Nextbike GmbH'],ski-rower-chelm,"{'city': 'Chełm', 'country': 'PL', 'latitude': 51.1318, 'longitude': 23.4755}",Chełmski Rower
+['Nextbike GmbH'],nextbike-vrchlabi,"{'city': 'Vrchlabí', 'country': 'CZ', 'latitude': 50.6222, 'longitude': 15.6126}",nextbike Vrchlabí
+['Nextbike GmbH'],winsenrad,"{'city': 'Winsen (Luhe)', 'country': 'DE', 'latitude': 53.3547, 'longitude': 10.2067}",WinsenRad
+['Nextbike GmbH'],loker-lomza,"{'city': 'Łomża', 'country': 'PL', 'latitude': 53.1649, 'longitude': 22.0729}",ŁoKeR - Łomża
+['Nextbike GmbH'],nomago-kranjska-gora,"{'city': 'Kranjska Gora', 'country': 'SI', 'latitude': 46.4846, 'longitude': 13.7836}",Nomago Bikes - KRANJSKA GORA
+['Nextbike GmbH'],nomago-portoroz,"{'city': 'Portorož', 'country': 'SI', 'latitude': 45.5054, 'longitude': 13.5979}",Nomago Bikes - PORTOROZ
+['Nextbike GmbH'],vrn-landau,"{'city': 'Landau in der Pfalz', 'country': 'DE', 'latitude': 49.1975, 'longitude': 8.11693}",VRN
+,velocity-aachen,"{'city': 'Aachen', 'country': 'DE', 'latitude': 50.776667, 'longitude': 6.083611}",Velocity
+,avelo-quebec,"{'city': 'Québec', 'country': 'CA', 'latitude': 46.81305, 'longitude': -71.2168}",àVélo
+,acces-velo-saguenay,"{'city': 'Saguenay', 'country': 'CA', 'latitude': 48.433333, 'longitude': -71.083333}",Accès Vélo
